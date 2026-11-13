@@ -1,0 +1,4964 @@
+{
+  "source": "C:\\XboxGames\\Age of Empires II- Definitive Edition\\Content\\Game",
+  "tech_tree_template": {
+    "buildings": [
+      {
+        "Name": "Archery Range",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14128,
+        "Age ID": 2,
+        "Building ID": 87,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105128,
+        "Link ID": 12,
+        "Node ID": 87,
+        "Picture Index": 0
+      },
+      {
+        "Name": "Barracks",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14135,
+        "Age ID": 1,
+        "Building ID": 12,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105135,
+        "Node ID": 12,
+        "Picture Index": 2
+      },
+      {
+        "Name": "Stable",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14171,
+        "Age ID": 2,
+        "Building ID": 101,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105171,
+        "Link ID": 12,
+        "Node ID": 101,
+        "Picture Index": 23
+      },
+      {
+        "Name": "Siege Workshop",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14169,
+        "Age ID": 3,
+        "Building ID": 49,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105169,
+        "Link ID": 103,
+        "Node ID": 49,
+        "Picture Index": 22
+      },
+      {
+        "Name": "Blacksmith",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14131,
+        "Age ID": 2,
+        "Building ID": 103,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105131,
+        "Node ID": 103,
+        "Picture Index": 4
+      },
+      {
+        "Name": "Dock",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14144,
+        "Age ID": 1,
+        "Building ID": 45,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105144,
+        "Node ID": 45,
+        "Picture Index": 13
+      },
+      {
+        "Name": "University",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14176,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105176,
+        "Node ID": 209,
+        "Picture Index": 33
+      },
+      {
+        "Name": "Outpost",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14504,
+        "Age ID": 1,
+        "Building ID": 598,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105504,
+        "Node ID": 598,
+        "Picture Index": 38
+      },
+      {
+        "Name": "Watch Tower",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingNonTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14178,
+        "Age ID": 2,
+        "Building ID": 79,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105178,
+        "Link ID": 598,
+        "Node ID": 79,
+        "Picture Index": 25
+      },
+      {
+        "Name": "Guard Tower",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingNonTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14154,
+        "Age ID": 3,
+        "Building ID": 234,
+        "Building in new column": false,
+        "Building upgraded from ID": 79,
+        "Help String ID": 105154,
+        "Link ID": 79,
+        "Node ID": 234,
+        "Picture Index": 27,
+        "Prerequisite IDs": [
+          140,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      {
+        "Name": "Keep",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingNonTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14155,
+        "Age ID": 4,
+        "Building ID": 235,
+        "Building in new column": false,
+        "Building upgraded from ID": 234,
+        "Help String ID": 105155,
+        "Link ID": 234,
+        "Node ID": 235,
+        "Picture Index": 26,
+        "Prerequisite IDs": [
+          63,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      {
+        "Name": "Bombard Tower",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingNonTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14156,
+        "Age ID": 4,
+        "Building ID": 236,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105156,
+        "Link ID": 235,
+        "Node ID": 236,
+        "Picture Index": 42,
+        "Prerequisite IDs": [
+          64,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      {
+        "Name": "Palisade Wall",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14202,
+        "Age ID": 1,
+        "Building ID": 72,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105202,
+        "Node ID": 72,
+        "Picture Index": 30
+      },
+      {
+        "Name": "Palisade Gate",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14186,
+        "Age ID": 1,
+        "Building ID": 792,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105186,
+        "Node ID": 792,
+        "Picture Index": 44
+      },
+      {
+        "Name": "Gate",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14185,
+        "Age ID": 2,
+        "Building ID": 487,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105185,
+        "Node ID": 487,
+        "Picture Index": 36
+      },
+      {
+        "Name": "Stone Wall",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingNonTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14203,
+        "Age ID": 2,
+        "Building ID": 117,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105203,
+        "Link ID": 487,
+        "Node ID": 117,
+        "Picture Index": 31
+      },
+      {
+        "Name": "Fortified Wall",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingNonTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14204,
+        "Age ID": 3,
+        "Building ID": 155,
+        "Building in new column": false,
+        "Building upgraded from ID": 117,
+        "Help String ID": 105204,
+        "Link ID": 117,
+        "Node ID": 155,
+        "Picture Index": 32,
+        "Prerequisite IDs": [
+          194,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      {
+        "Name": "Castle",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14142,
+        "Age ID": 3,
+        "Building ID": 82,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105142,
+        "Node ID": 82,
+        "Picture Index": 7
+      },
+      {
+        "Name": "Monastery",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14138,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105138,
+        "Node ID": 104,
+        "Picture Index": 10
+      },
+      {
+        "Name": "Town Center",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14164,
+        "Age ID": 1,
+        "Building ID": 109,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105164,
+        "Node ID": 109,
+        "Picture Index": 28
+      },
+      {
+        "Name": "House",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14344,
+        "Age ID": 1,
+        "Building ID": 70,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105344,
+        "Node ID": 70,
+        "Picture Index": 34
+      },
+      {
+        "Name": "Town Center",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14164,
+        "Age ID": 3,
+        "Building ID": 621,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105164,
+        "Node ID": 621,
+        "Picture Index": 28
+      },
+      {
+        "Name": "Wonder",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14182,
+        "Age ID": 4,
+        "Building ID": 276,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105182,
+        "Node ID": 276,
+        "Picture Index": 37
+      },
+      {
+        "Name": "Mining Camp",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14487,
+        "Age ID": 1,
+        "Building ID": 584,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105487,
+        "Node ID": 584,
+        "Picture Index": 39
+      },
+      {
+        "Name": "Lumber Camp",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14464,
+        "Age ID": 1,
+        "Building ID": 562,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105464,
+        "Node ID": 562,
+        "Picture Index": 40
+      },
+      {
+        "Name": "Market",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14161,
+        "Age ID": 2,
+        "Building ID": 84,
+        "Building in new column": false,
+        "Building upgraded from ID": 68,
+        "Help String ID": 105161,
+        "Link ID": 68,
+        "Node ID": 84,
+        "Picture Index": 16
+      },
+      {
+        "Name": "Mill",
+        "Node Type": "BuildingTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14157,
+        "Age ID": 1,
+        "Building ID": 68,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105157,
+        "Node ID": 68,
+        "Picture Index": 19
+      },
+      {
+        "Name": "Farm",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "Building",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14149,
+        "Age ID": 1,
+        "Building ID": 68,
+        "Building in new column": false,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105149,
+        "Link ID": 68,
+        "Node ID": 50,
+        "Picture Index": 35
+      }
+    ],
+    "units": [
+      {
+        "Name": "Archer",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14083,
+        "Age ID": 2,
+        "Building ID": 87,
+        "Help String ID": 105083,
+        "Node ID": 4,
+        "Picture Index": 17
+      },
+      {
+        "Name": "Crossbowman",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14084,
+        "Age ID": 3,
+        "Building ID": 87,
+        "Help String ID": 105084,
+        "Link ID": 4,
+        "Node ID": 24,
+        "Picture Index": 18,
+        "Trigger Tech ID": 100
+      },
+      {
+        "Name": "Arbalester",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14418,
+        "Age ID": 4,
+        "Building ID": 87,
+        "Help String ID": 105418,
+        "Link ID": 24,
+        "Node ID": 492,
+        "Picture Index": 90,
+        "Trigger Tech ID": 237
+      },
+      {
+        "Name": "Skirmisher",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14088,
+        "Age ID": 2,
+        "Building ID": 87,
+        "Help String ID": 105088,
+        "Node ID": 7,
+        "Picture Index": 20
+      },
+      {
+        "Name": "Elite Skirmisher",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14087,
+        "Age ID": 3,
+        "Building ID": 87,
+        "Help String ID": 105087,
+        "Link ID": 7,
+        "Node ID": 6,
+        "Picture Index": 21,
+        "Trigger Tech ID": 98
+      },
+      {
+        "Name": "Hand Cannoneer",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14086,
+        "Age ID": 4,
+        "Building ID": 87,
+        "Help String ID": 105086,
+        "Node ID": 5,
+        "Picture Index": 22,
+        "Prerequisite IDs": [
+          47,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      {
+        "Name": "Cavalry Archer",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14085,
+        "Age ID": 3,
+        "Building ID": 87,
+        "Help String ID": 105085,
+        "Node ID": 39,
+        "Picture Index": 19
+      },
+      {
+        "Name": "Heavy Cavalry Archer",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14412,
+        "Age ID": 4,
+        "Building ID": 87,
+        "Help String ID": 105412,
+        "Link ID": 39,
+        "Node ID": 474,
+        "Picture Index": 71,
+        "Trigger Tech ID": 218
+      },
+      {
+        "Name": "Mounted Crossbowman",
+        "Node Type": "RegionalUnit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14527,
+        "Age ID": 3,
+        "Building ID": 87,
+        "Help String ID": 105527,
+        "Node ID": 2700,
+        "Picture Index": 900
+      },
+      {
+        "Name": "Heavy Mounted Crossbowman",
+        "Node Type": "RegionalUnit",
+        "Link Node Type": "RegionalUnit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14528,
+        "Age ID": 4,
+        "Building ID": 87,
+        "Help String ID": 105528,
+        "Link ID": 2700,
+        "Node ID": 2701,
+        "Picture Index": 901,
+        "Trigger Tech ID": 1451
+      },
+      {
+        "Name": "Thumb Ring",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17411,
+        "Age ID": 3,
+        "Building ID": 87,
+        "Help String ID": 107411,
+        "Node ID": 437,
+        "Picture Index": 112
+      },
+      {
+        "Name": "Parthian Tactics",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17415,
+        "Age ID": 4,
+        "Building ID": 87,
+        "Help String ID": 107415,
+        "Node ID": 436,
+        "Picture Index": 111
+      },
+      {
+        "Name": "Cranequins",
+        "Node Type": "RegionalTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 517024,
+        "Age ID": 4,
+        "Building ID": 87,
+        "Help String ID": 607024,
+        "Link ID": 436,
+        "Node ID": 1452,
+        "Picture Index": 56
+      },
+      {
+        "Name": "Militia",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14079,
+        "Age ID": 1,
+        "Building ID": 12,
+        "Help String ID": 105079,
+        "Node ID": 74,
+        "Picture Index": 8
+      },
+      {
+        "Name": "Man-at-Arms",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14080,
+        "Age ID": 2,
+        "Building ID": 12,
+        "Help String ID": 105080,
+        "Link ID": 74,
+        "Node ID": 75,
+        "Picture Index": 10,
+        "Trigger Tech ID": 222
+      },
+      {
+        "Name": "Long Swordsman",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14081,
+        "Age ID": 3,
+        "Building ID": 12,
+        "Help String ID": 105081,
+        "Link ID": 75,
+        "Node ID": 77,
+        "Picture Index": 13,
+        "Trigger Tech ID": 207
+      },
+      {
+        "Name": "Two-Handed Swordsman",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14411,
+        "Age ID": 4,
+        "Building ID": 12,
+        "Help String ID": 105411,
+        "Link ID": 77,
+        "Node ID": 473,
+        "Picture Index": 12,
+        "Trigger Tech ID": 217
+      },
+      {
+        "Name": "Champion",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14469,
+        "Age ID": 4,
+        "Building ID": 12,
+        "Help String ID": 105469,
+        "Link ID": 473,
+        "Node ID": 567,
+        "Picture Index": 72,
+        "Trigger Tech ID": 264
+      },
+      {
+        "Name": "Spearman",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14078,
+        "Age ID": 2,
+        "Building ID": 12,
+        "Help String ID": 105078,
+        "Node ID": 93,
+        "Picture Index": 31
+      },
+      {
+        "Name": "Pikeman",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14408,
+        "Age ID": 3,
+        "Building ID": 12,
+        "Help String ID": 105408,
+        "Link ID": 93,
+        "Node ID": 358,
+        "Picture Index": 11,
+        "Trigger Tech ID": 197
+      },
+      {
+        "Name": "Halberdier",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14409,
+        "Age ID": 4,
+        "Building ID": 12,
+        "Help String ID": 105409,
+        "Link ID": 358,
+        "Node ID": 359,
+        "Picture Index": 104,
+        "Trigger Tech ID": 429
+      },
+      {
+        "Name": "Arson",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17258,
+        "Age ID": 2,
+        "Building ID": 12,
+        "Help String ID": 107258,
+        "Node ID": 602,
+        "Picture Index": 118
+      },
+      {
+        "Name": "Gambesons",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17450,
+        "Age ID": 3,
+        "Building ID": 12,
+        "Help String ID": 107450,
+        "Node ID": 875,
+        "Picture Index": 116
+      },
+      {
+        "Name": "Squires",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17210,
+        "Age ID": 3,
+        "Building ID": 12,
+        "Help String ID": 107210,
+        "Link ID": 875,
+        "Node ID": 215,
+        "Picture Index": 80
+      },
+      {
+        "Name": "Scout Cavalry",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14326,
+        "Age ID": 2,
+        "Building ID": 101,
+        "Help String ID": 105326,
+        "Node ID": 448,
+        "Picture Index": 64
+      },
+      {
+        "Name": "Light Cavalry",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14444,
+        "Age ID": 3,
+        "Building ID": 101,
+        "Help String ID": 105444,
+        "Link ID": 448,
+        "Node ID": 546,
+        "Picture Index": 91,
+        "Trigger Tech ID": 254
+      },
+      {
+        "Name": "Hussar",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14661,
+        "Age ID": 4,
+        "Building ID": 101,
+        "Help String ID": 105661,
+        "Link ID": 546,
+        "Node ID": 441,
+        "Picture Index": 103,
+        "Trigger Tech ID": 428
+      },
+      {
+        "Name": "Knight",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14068,
+        "Age ID": 3,
+        "Building ID": 101,
+        "Help String ID": 105068,
+        "Node ID": 38,
+        "Picture Index": 1
+      },
+      {
+        "Name": "Cavalier",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14070,
+        "Age ID": 4,
+        "Building ID": 101,
+        "Help String ID": 105070,
+        "Link ID": 38,
+        "Node ID": 283,
+        "Picture Index": 49,
+        "Trigger Tech ID": 209
+      },
+      {
+        "Name": "Paladin",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14471,
+        "Age ID": 4,
+        "Building ID": 101,
+        "Help String ID": 105471,
+        "Link ID": 283,
+        "Node ID": 569,
+        "Picture Index": 2,
+        "Trigger Tech ID": 265
+      },
+      {
+        "Name": "Bloodlines",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17409,
+        "Age ID": 2,
+        "Building ID": 101,
+        "Help String ID": 107409,
+        "Node ID": 435,
+        "Picture Index": 110
+      },
+      {
+        "Name": "Husbandry",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17039,
+        "Age ID": 3,
+        "Building ID": 101,
+        "Help String ID": 107039,
+        "Link ID": 435,
+        "Node ID": 39,
+        "Picture Index": 10
+      },
+      {
+        "Name": "Battering Ram",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14094,
+        "Age ID": 3,
+        "Building ID": 49,
+        "Help String ID": 105094,
+        "Node ID": 1258,
+        "Picture Index": 74
+      },
+      {
+        "Name": "Capped Ram",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14289,
+        "Age ID": 4,
+        "Building ID": 49,
+        "Help String ID": 105289,
+        "Link ID": 1258,
+        "Node ID": 422,
+        "Picture Index": 63,
+        "Trigger Tech ID": 96
+      },
+      {
+        "Name": "Siege Ram",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14446,
+        "Age ID": 4,
+        "Building ID": 49,
+        "Help String ID": 105446,
+        "Link ID": 422,
+        "Node ID": 548,
+        "Picture Index": 73,
+        "Trigger Tech ID": 255
+      },
+      {
+        "Name": "Mangonel",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14095,
+        "Age ID": 3,
+        "Building ID": 49,
+        "Help String ID": 105095,
+        "Node ID": 280,
+        "Picture Index": 27
+      },
+      {
+        "Name": "Onager",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14448,
+        "Age ID": 4,
+        "Building ID": 49,
+        "Help String ID": 105448,
+        "Link ID": 280,
+        "Node ID": 550,
+        "Picture Index": 101,
+        "Trigger Tech ID": 257
+      },
+      {
+        "Name": "Siege Onager",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14493,
+        "Age ID": 4,
+        "Building ID": 49,
+        "Help String ID": 105493,
+        "Link ID": 550,
+        "Node ID": 588,
+        "Picture Index": 102,
+        "Trigger Tech ID": 320
+      },
+      {
+        "Name": "Scorpion",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14096,
+        "Age ID": 3,
+        "Building ID": 49,
+        "Help String ID": 105096,
+        "Node ID": 279,
+        "Picture Index": 80
+      },
+      {
+        "Name": "Heavy Scorpion",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14439,
+        "Age ID": 4,
+        "Building ID": 49,
+        "Help String ID": 105439,
+        "Link ID": 279,
+        "Node ID": 542,
+        "Picture Index": 89,
+        "Trigger Tech ID": 239
+      },
+      {
+        "Name": "Siege Tower",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14445,
+        "Age ID": 3,
+        "Building ID": 49,
+        "Help String ID": 105445,
+        "Node ID": 1105,
+        "Picture Index": 212
+      },
+      {
+        "Name": "Bombard Cannon",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14093,
+        "Age ID": 4,
+        "Building ID": 49,
+        "Help String ID": 105093,
+        "Node ID": 36,
+        "Picture Index": 30,
+        "Prerequisite IDs": [
+          47,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      {
+        "Name": "Padded Archer Armor",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17208,
+        "Age ID": 2,
+        "Building ID": 103,
+        "Help String ID": 107208,
+        "Node ID": 211,
+        "Picture Index": 49
+      },
+      {
+        "Name": "Leather Archer Armor",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17209,
+        "Age ID": 3,
+        "Building ID": 103,
+        "Help String ID": 107209,
+        "Link ID": 211,
+        "Node ID": 212,
+        "Picture Index": 50
+      },
+      {
+        "Name": "Ring Archer Armor",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17216,
+        "Age ID": 4,
+        "Building ID": 103,
+        "Help String ID": 107216,
+        "Link ID": 212,
+        "Node ID": 219,
+        "Picture Index": 51
+      },
+      {
+        "Name": "Fletching",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17172,
+        "Age ID": 2,
+        "Building ID": 103,
+        "Help String ID": 107172,
+        "Node ID": 199,
+        "Picture Index": 34
+      },
+      {
+        "Name": "Bodkin Arrow",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17150,
+        "Age ID": 3,
+        "Building ID": 103,
+        "Help String ID": 107150,
+        "Link ID": 199,
+        "Node ID": 200,
+        "Picture Index": 35
+      },
+      {
+        "Name": "Bracer",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17151,
+        "Age ID": 4,
+        "Building ID": 103,
+        "Help String ID": 107151,
+        "Link ID": 200,
+        "Node ID": 201,
+        "Picture Index": 37
+      },
+      {
+        "Name": "Forging",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17067,
+        "Age ID": 2,
+        "Building ID": 103,
+        "Help String ID": 107067,
+        "Node ID": 67,
+        "Picture Index": 17
+      },
+      {
+        "Name": "Iron Casting",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17068,
+        "Age ID": 3,
+        "Building ID": 103,
+        "Help String ID": 107068,
+        "Link ID": 67,
+        "Node ID": 68,
+        "Picture Index": 18
+      },
+      {
+        "Name": "Blast Furnace",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17075,
+        "Age ID": 4,
+        "Building ID": 103,
+        "Help String ID": 107075,
+        "Link ID": 68,
+        "Node ID": 75,
+        "Picture Index": 21
+      },
+      {
+        "Name": "Scale Barding Armor",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17081,
+        "Age ID": 2,
+        "Building ID": 103,
+        "Help String ID": 107081,
+        "Node ID": 81,
+        "Picture Index": 66
+      },
+      {
+        "Name": "Chain Barding Armor",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17082,
+        "Age ID": 3,
+        "Building ID": 103,
+        "Help String ID": 107082,
+        "Link ID": 81,
+        "Node ID": 82,
+        "Picture Index": 23
+      },
+      {
+        "Name": "Plate Barding Armor",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17080,
+        "Age ID": 4,
+        "Building ID": 103,
+        "Help String ID": 107080,
+        "Link ID": 82,
+        "Node ID": 80,
+        "Picture Index": 65
+      },
+      {
+        "Name": "Scale Mail Armor",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17074,
+        "Age ID": 2,
+        "Building ID": 103,
+        "Help String ID": 107074,
+        "Node ID": 74,
+        "Picture Index": 63
+      },
+      {
+        "Name": "Chain Mail Armor",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17076,
+        "Age ID": 3,
+        "Building ID": 103,
+        "Help String ID": 107076,
+        "Link ID": 74,
+        "Node ID": 76,
+        "Picture Index": 22
+      },
+      {
+        "Name": "Plate Mail Armor",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17077,
+        "Age ID": 4,
+        "Building ID": 103,
+        "Help String ID": 107077,
+        "Link ID": 76,
+        "Node ID": 77,
+        "Picture Index": 64
+      },
+      {
+        "Name": "Fishing Ship",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14090,
+        "Age ID": 1,
+        "Building ID": 45,
+        "Help String ID": 105090,
+        "Node ID": 13,
+        "Picture Index": 24
+      },
+      {
+        "Name": "Fish Trap",
+        "Node Type": "BuildingNonTech",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Building",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14495,
+        "Age ID": 2,
+        "Building ID": 45,
+        "Building upgraded from ID": -1,
+        "Help String ID": 105495,
+        "Link ID": 13,
+        "Node ID": 199,
+        "Picture Index": 41
+      },
+      {
+        "Name": "Transport Ship",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14443,
+        "Age ID": 1,
+        "Building ID": 45,
+        "Help String ID": 105443,
+        "Node ID": 545,
+        "Picture Index": 95
+      },
+      {
+        "Name": "Fire Galley",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14160,
+        "Age ID": 2,
+        "Building ID": 45,
+        "Help String ID": 105160,
+        "Node ID": 1103,
+        "Picture Index": 203
+      },
+      {
+        "Name": "Fire Ship",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14426,
+        "Age ID": 3,
+        "Building ID": 45,
+        "Help String ID": 105426,
+        "Link ID": 1103,
+        "Node ID": 529,
+        "Picture Index": 86,
+        "Prerequisite IDs": [
+          34,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Trigger Tech ID": 34
+      },
+      {
+        "Name": "Fast Fire Ship",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14429,
+        "Age ID": 4,
+        "Building ID": 45,
+        "Help String ID": 105429,
+        "Link ID": 529,
+        "Node ID": 532,
+        "Picture Index": 85,
+        "Prerequisite IDs": [
+          35,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Trigger Tech ID": 246
+      },
+      {
+        "Name": "Fishing Lines",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 517005,
+        "Age ID": 2,
+        "Building ID": 45,
+        "Help String ID": 607005,
+        "Link ID": 199,
+        "Node ID": 906,
+        "Picture Index": 140
+      },
+      {
+        "Name": "Gillnets",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17314,
+        "Age ID": 3,
+        "Building ID": 45,
+        "Help String ID": 107314,
+        "Link ID": 906,
+        "Node ID": 65,
+        "Picture Index": 41
+      },
+      {
+        "Name": "Galley",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14436,
+        "Age ID": 2,
+        "Building ID": 45,
+        "Help String ID": 105436,
+        "Node ID": 539,
+        "Picture Index": 87
+      },
+      {
+        "Name": "War Galley",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14091,
+        "Age ID": 3,
+        "Building ID": 45,
+        "Help String ID": 105091,
+        "Link ID": 539,
+        "Node ID": 21,
+        "Picture Index": 25,
+        "Prerequisite IDs": [
+          34,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Trigger Tech ID": 34
+      },
+      {
+        "Name": "Galleon",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14309,
+        "Age ID": 4,
+        "Building ID": 45,
+        "Help String ID": 105309,
+        "Link ID": 21,
+        "Node ID": 442,
+        "Picture Index": 60,
+        "Prerequisite IDs": [
+          35,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Trigger Tech ID": 35
+      },
+      {
+        "Name": "Hulk",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14523,
+        "Age ID": 2,
+        "Building ID": 45,
+        "Help String ID": 105523,
+        "Node ID": 2626,
+        "Picture Index": 566
+      },
+      {
+        "Name": "War Hulk",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14524,
+        "Age ID": 3,
+        "Building ID": 45,
+        "Help String ID": 105524,
+        "Link ID": 2626,
+        "Node ID": 2627,
+        "Picture Index": 565,
+        "Prerequisite IDs": [
+          34,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Trigger Tech ID": 34
+      },
+      {
+        "Name": "Carrack",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14525,
+        "Age ID": 4,
+        "Building ID": 45,
+        "Help String ID": 105525,
+        "Link ID": 2627,
+        "Node ID": 2628,
+        "Picture Index": 567,
+        "Prerequisite IDs": [
+          35,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Trigger Tech ID": 904
+      },
+      {
+        "Name": "Demolition Raft",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14162,
+        "Age ID": 2,
+        "Building ID": 45,
+        "Help String ID": 105162,
+        "Node ID": 1104,
+        "Picture Index": 202
+      },
+      {
+        "Name": "Demolition Ship",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14424,
+        "Age ID": 3,
+        "Building ID": 45,
+        "Help String ID": 105424,
+        "Link ID": 1104,
+        "Node ID": 527,
+        "Picture Index": 84,
+        "Trigger Tech ID": 905
+      },
+      {
+        "Name": "Heavy Demolition Ship",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "UnitUpgrade",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14425,
+        "Age ID": 4,
+        "Building ID": 45,
+        "Help String ID": 105425,
+        "Link ID": 527,
+        "Node ID": 528,
+        "Picture Index": 83,
+        "Trigger Tech ID": 244
+      },
+      {
+        "Name": "Trade Cog",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14089,
+        "Age ID": 2,
+        "Building ID": 45,
+        "Help String ID": 105089,
+        "Node ID": 17,
+        "Picture Index": 23
+      },
+      {
+        "Name": "Warships",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17034,
+        "Age ID": 3,
+        "Building ID": 45,
+        "Help String ID": 107034,
+        "Link ID": 17,
+        "Node ID": 34,
+        "Picture Index": 147
+      },
+      {
+        "Name": "Heavy Warships",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17035,
+        "Age ID": 4,
+        "Building ID": 45,
+        "Help String ID": 107035,
+        "Link ID": 34,
+        "Node ID": 35,
+        "Picture Index": 148
+      },
+      {
+        "Name": "Cannon Galleon",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchRequired",
+        "Name String ID": 14287,
+        "Age ID": 4,
+        "Building ID": 45,
+        "Help String ID": 105287,
+        "Node ID": 420,
+        "Picture Index": 55,
+        "Prerequisite IDs": [
+          47,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Prerequisite Types": [
+          "Tech",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      {
+        "Name": "Elite Cannon Galleon",
+        "Node Type": "UnitUpgrade",
+        "Link Node Type": "Unit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "NotAvailable",
+        "Name String ID": 14573,
+        "Age ID": 4,
+        "Building ID": 45,
+        "Help String ID": 105573,
+        "Link ID": 420,
+        "Node ID": 691,
+        "Picture Index": 298,
+        "Trigger Tech ID": 376
+      },
+      {
+        "Name": "Masonry",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17050,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107050,
+        "Node ID": 50,
+        "Picture Index": 13
+      },
+      {
+        "Name": "Architecture",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17051,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107051,
+        "Link ID": 50,
+        "Node ID": 51,
+        "Picture Index": 14
+      },
+      {
+        "Name": "Fortified Wall",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17163,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107163,
+        "Node ID": 194,
+        "Picture Index": 46
+      },
+      {
+        "Name": "Chemistry",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17047,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107047,
+        "Node ID": 47,
+        "Picture Index": 12
+      },
+      {
+        "Name": "Bombard Tower",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17320,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107320,
+        "Link ID": 47,
+        "Node ID": 64,
+        "Picture Index": 47
+      },
+      {
+        "Name": "Ballistics",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17093,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107093,
+        "Node ID": 93,
+        "Picture Index": 25
+      },
+      {
+        "Name": "Siege Engineers",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17378,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107378,
+        "Node ID": 377,
+        "Picture Index": 101
+      },
+      {
+        "Name": "Guard Tower",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17186,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107186,
+        "Node ID": 140,
+        "Picture Index": 76
+      },
+      {
+        "Name": "Keep",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17063,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107063,
+        "Link ID": 140,
+        "Node ID": 63,
+        "Picture Index": 16
+      },
+      {
+        "Name": "Heated Shot",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17374,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107374,
+        "Node ID": 380,
+        "Picture Index": 104
+      },
+      {
+        "Name": "Arrowslits",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17278,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107278,
+        "Node ID": 608,
+        "Picture Index": 119
+      },
+      {
+        "Name": "Murder Holes",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17321,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107321,
+        "Node ID": 322,
+        "Picture Index": 61
+      },
+      {
+        "Name": "Careening",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17372,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107372,
+        "Node ID": 374,
+        "Picture Index": 98
+      },
+      {
+        "Name": "Dry Dock",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17373,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107373,
+        "Link ID": 374,
+        "Node ID": 375,
+        "Picture Index": 99
+      },
+      {
+        "Name": "Clinker Construction",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 517003,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 607003,
+        "Node ID": 908,
+        "Picture Index": 142
+      },
+      {
+        "Name": "Carvel Hull",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 517004,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 607004,
+        "Link ID": 908,
+        "Node ID": 907,
+        "Picture Index": 141
+      },
+      {
+        "Name": "Siphons",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 517006,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 607006,
+        "Node ID": 909,
+        "Picture Index": 40
+      },
+      {
+        "Name": "Incendiaries",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 517007,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 607007,
+        "Link ID": 909,
+        "Node ID": 910,
+        "Picture Index": 143
+      },
+      {
+        "Name": "Shipwright",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17377,
+        "Age ID": 4,
+        "Building ID": 209,
+        "Help String ID": 107377,
+        "Node ID": 373,
+        "Picture Index": 97
+      },
+      {
+        "Name": "Treadmill Crane",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17054,
+        "Age ID": 3,
+        "Building ID": 209,
+        "Help String ID": 107054,
+        "Node ID": 54,
+        "Picture Index": 60
+      },
+      {
+        "Name": "Longbowman",
+        "Node Type": "UniqueUnit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14107,
+        "Age ID": 3,
+        "Building ID": 82,
+        "Help String ID": 105107,
+        "Node ID": 8,
+        "Picture Index": 41
+      },
+      {
+        "Name": "Elite Longbowman",
+        "Node Type": "UniqueUnit",
+        "Link Node Type": "UniqueUnit",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14456,
+        "Age ID": 4,
+        "Building ID": 82,
+        "Help String ID": 105456,
+        "Link ID": 8,
+        "Node ID": 530,
+        "Picture Index": 472,
+        "Trigger Tech ID": 360
+      },
+      {
+        "Name": "Petard",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14660,
+        "Age ID": 3,
+        "Building ID": 82,
+        "Help String ID": 105660,
+        "Node ID": 440,
+        "Picture Index": 113
+      },
+      {
+        "Name": "Trebuchet (Packed)",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14381,
+        "Age ID": 4,
+        "Building ID": 82,
+        "Help String ID": 105381,
+        "Node ID": 331,
+        "Picture Index": 29
+      },
+      {
+        "Name": "Yeomen",
+        "Node Type": "UniqueTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17419,
+        "Age ID": 3,
+        "Building ID": 82,
+        "Help String ID": 107419,
+        "Node ID": 3,
+        "Picture Index": 33
+      },
+      {
+        "Name": "Warwolf",
+        "Node Type": "UniqueTech",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17327,
+        "Age ID": 4,
+        "Building ID": 82,
+        "Help String ID": 107327,
+        "Node ID": 461,
+        "Picture Index": 107
+      },
+      {
+        "Name": "Conscription",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17319,
+        "Age ID": 4,
+        "Building ID": 82,
+        "Help String ID": 107319,
+        "Node ID": 315,
+        "Picture Index": 91
+      },
+      {
+        "Name": "Hoardings",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17376,
+        "Age ID": 4,
+        "Building ID": 82,
+        "Help String ID": 107376,
+        "Node ID": 379,
+        "Picture Index": 103
+      },
+      {
+        "Name": "Sappers",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17322,
+        "Age ID": 4,
+        "Building ID": 82,
+        "Help String ID": 107322,
+        "Link ID": 379,
+        "Node ID": 321,
+        "Picture Index": 5
+      },
+      {
+        "Name": "Spies/Treason",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17408,
+        "Age ID": 4,
+        "Building ID": 82,
+        "Help String ID": 107408,
+        "Link ID": 315,
+        "Node ID": 408,
+        "Picture Index": 19
+      },
+      {
+        "Name": "Monk",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14099,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 105099,
+        "Node ID": 125,
+        "Picture Index": 33
+      },
+      {
+        "Name": "Devotion",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17462,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 107462,
+        "Node ID": 46,
+        "Picture Index": 131
+      },
+      {
+        "Name": "Faith",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17045,
+        "Age ID": 4,
+        "Building ID": 104,
+        "Help String ID": 107045,
+        "Link ID": 46,
+        "Node ID": 45,
+        "Picture Index": 11
+      },
+      {
+        "Name": "Redemption",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17315,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 107315,
+        "Node ID": 316,
+        "Picture Index": 92
+      },
+      {
+        "Name": "Illumination",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17220,
+        "Age ID": 4,
+        "Building ID": 104,
+        "Help String ID": 107220,
+        "Node ID": 233,
+        "Picture Index": 84
+      },
+      {
+        "Name": "Atonement",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17316,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 107316,
+        "Node ID": 319,
+        "Picture Index": 93
+      },
+      {
+        "Name": "Block Printing",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17222,
+        "Age ID": 4,
+        "Building ID": 104,
+        "Help String ID": 107222,
+        "Node ID": 230,
+        "Picture Index": 82
+      },
+      {
+        "Name": "Herbal Medicine",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17435,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 107435,
+        "Node ID": 441,
+        "Picture Index": 114
+      },
+      {
+        "Name": "Theocracy",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17416,
+        "Age ID": 4,
+        "Building ID": 104,
+        "Help String ID": 107416,
+        "Node ID": 438,
+        "Picture Index": 109
+      },
+      {
+        "Name": "Heresy",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17412,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 107412,
+        "Node ID": 439,
+        "Picture Index": 108
+      },
+      {
+        "Name": "Sanctity",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17221,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 107221,
+        "Node ID": 231,
+        "Picture Index": 83
+      },
+      {
+        "Name": "Fervor",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17249,
+        "Age ID": 3,
+        "Building ID": 104,
+        "Help String ID": 107249,
+        "Node ID": 252,
+        "Picture Index": 73
+      },
+      {
+        "Name": "Villager",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14121,
+        "Age ID": 1,
+        "Building ID": 109,
+        "Help String ID": 105121,
+        "Node ID": 83,
+        "Picture Index": 15
+      },
+      {
+        "Name": "Town Watch",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17008,
+        "Age ID": 2,
+        "Building ID": 109,
+        "Help String ID": 107008,
+        "Node ID": 8,
+        "Picture Index": 69
+      },
+      {
+        "Name": "Town Patrol",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17282,
+        "Age ID": 3,
+        "Building ID": 109,
+        "Help String ID": 107282,
+        "Link ID": 8,
+        "Node ID": 280,
+        "Picture Index": 89
+      },
+      {
+        "Name": "Feudal Age",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17101,
+        "Age ID": 1,
+        "Building ID": 109,
+        "Help String ID": 107101,
+        "Node ID": 101,
+        "Picture Index": 30
+      },
+      {
+        "Name": "Castle Age",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17102,
+        "Age ID": 2,
+        "Building ID": 109,
+        "Help String ID": 107102,
+        "Link ID": 101,
+        "Node ID": 102,
+        "Picture Index": 31
+      },
+      {
+        "Name": "Imperial Age",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17103,
+        "Age ID": 3,
+        "Building ID": 109,
+        "Help String ID": 107103,
+        "Link ID": 102,
+        "Node ID": 103,
+        "Picture Index": 32
+      },
+      {
+        "Name": "Loom",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17022,
+        "Age ID": 1,
+        "Building ID": 109,
+        "Help String ID": 107022,
+        "Node ID": 22,
+        "Picture Index": 6
+      },
+      {
+        "Name": "Wheelbarrow",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17211,
+        "Age ID": 2,
+        "Building ID": 109,
+        "Help String ID": 107211,
+        "Node ID": 213,
+        "Picture Index": 79
+      },
+      {
+        "Name": "Hand Cart",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17246,
+        "Age ID": 3,
+        "Building ID": 109,
+        "Help String ID": 107246,
+        "Link ID": 213,
+        "Node ID": 249,
+        "Picture Index": 42
+      },
+      {
+        "Name": "Gold Mining",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17055,
+        "Age ID": 2,
+        "Building ID": 584,
+        "Help String ID": 107055,
+        "Node ID": 55,
+        "Picture Index": 15
+      },
+      {
+        "Name": "Gold Shaft Mining",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17180,
+        "Age ID": 3,
+        "Building ID": 584,
+        "Help String ID": 107180,
+        "Link ID": 55,
+        "Node ID": 182,
+        "Picture Index": 62
+      },
+      {
+        "Name": "Stone Mining",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17276,
+        "Age ID": 2,
+        "Building ID": 584,
+        "Help String ID": 107276,
+        "Node ID": 278,
+        "Picture Index": 87
+      },
+      {
+        "Name": "Stone Shaft Mining",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17277,
+        "Age ID": 3,
+        "Building ID": 584,
+        "Help String ID": 107277,
+        "Link ID": 278,
+        "Node ID": 279,
+        "Picture Index": 88
+      },
+      {
+        "Name": "Double-Bit Axe",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17189,
+        "Age ID": 2,
+        "Building ID": 562,
+        "Help String ID": 107189,
+        "Node ID": 202,
+        "Picture Index": 70
+      },
+      {
+        "Name": "Bow Saw",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17190,
+        "Age ID": 3,
+        "Building ID": 562,
+        "Help String ID": 107190,
+        "Link ID": 202,
+        "Node ID": 203,
+        "Picture Index": 71
+      },
+      {
+        "Name": "Two-Man Saw",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17231,
+        "Age ID": 4,
+        "Building ID": 562,
+        "Help String ID": 107231,
+        "Link ID": 203,
+        "Node ID": 221,
+        "Picture Index": 81
+      },
+      {
+        "Name": "Trade Cart",
+        "Node Type": "Unit",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Unit",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 14100,
+        "Age ID": 2,
+        "Building ID": 84,
+        "Help String ID": 105100,
+        "Node ID": 128,
+        "Picture Index": 34
+      },
+      {
+        "Name": "Caravan",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17410,
+        "Age ID": 3,
+        "Building ID": 84,
+        "Help String ID": 107410,
+        "Node ID": 48,
+        "Picture Index": 113
+      },
+      {
+        "Name": "Coinage",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17023,
+        "Age ID": 3,
+        "Building ID": 84,
+        "Help String ID": 107023,
+        "Link ID": 48,
+        "Node ID": 23,
+        "Picture Index": 7
+      },
+      {
+        "Name": "Banking",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17017,
+        "Age ID": 4,
+        "Building ID": 84,
+        "Help String ID": 107017,
+        "Link ID": 23,
+        "Node ID": 17,
+        "Picture Index": 3
+      },
+      {
+        "Name": "Guilds",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17015,
+        "Age ID": 4,
+        "Building ID": 84,
+        "Help String ID": 107015,
+        "Link ID": 17,
+        "Node ID": 15,
+        "Picture Index": 58
+      },
+      {
+        "Name": "Horse Collar",
+        "Node Type": "Research",
+        "Link Node Type": "BuildingTech",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17014,
+        "Age ID": 2,
+        "Building ID": 68,
+        "Help String ID": 107014,
+        "Link ID": 50,
+        "Node ID": 14,
+        "Picture Index": 2
+      },
+      {
+        "Name": "Heavy Plow",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "ResearchedCompleted",
+        "Name String ID": 17013,
+        "Age ID": 3,
+        "Building ID": 68,
+        "Help String ID": 107013,
+        "Link ID": 14,
+        "Node ID": 13,
+        "Picture Index": 1
+      },
+      {
+        "Name": "Crop Rotation",
+        "Node Type": "Research",
+        "Link Node Type": "Research",
+        "Draw Node Type": "UnitTech",
+        "Use Type": "Tech",
+        "Node Status": "NotAvailable",
+        "Name String ID": 17012,
+        "Age ID": 4,
+        "Building ID": 68,
+        "Help String ID": 107012,
+        "Link ID": 13,
+        "Node ID": 12,
+        "Picture Index": 0
+      }
+    ]
+  },
+  "unitlines": {
+    "Hint": "LineIDs have to be between (-400, -199). DefConst Identifiers can be strings or arrays of strings",
+    "UnitLines": [
+      {
+        "Name": "Wall Line",
+        "Identifier": "stone-wall-line",
+        "Building": true,
+        "LineID": -399,
+        "IDChain": [
+          117,
+          155
+        ]
+      },
+      {
+        "Name": "Tower Line",
+        "Identifier": "watch-tower-line",
+        "Building": true,
+        "LineID": -398,
+        "IDChain": [
+          79,
+          234,
+          235
+        ]
+      },
+      {
+        "Name": "Outpost Line",
+        "Identifier": "outpost-line",
+        "LineID": -310,
+        "IDChain": [
+          598,
+          2415
+        ]
+      },
+      {
+        "Name": "Sannahya Line",
+        "Identifier": "sannahya-line",
+        "LineID": -300,
+        "IDChain": [
+          2390,
+          2391
+        ]
+      },
+      {
+        "Name": "Archery Line",
+        "Identifier": "archer-line",
+        "LineID": -299,
+        "IDChain": [
+          4,
+          24,
+          492
+        ]
+      },
+      {
+        "Name": "Cavalry Archer Line",
+        "Identifier": "cavalry-archer-line",
+        "LineID": -298,
+        "IDChain": [
+          39,
+          474
+        ]
+      },
+      {
+        "Name": "Skirmisher Line",
+        "Identifier": "skirmisher-line",
+        "LineID": -297,
+        "IDChain": [
+          7,
+          6,
+          1155
+        ]
+      },
+      {
+        "Name": "Eagle Warrior Line",
+        "Identifier": [
+          "eagle-warrior-line",
+          "eagle-scout-line"
+        ],
+        "LineID": -266,
+        "IDChain": [
+          751,
+          753,
+          752
+        ]
+      },
+      {
+        "Name": "Militia Line",
+        "Identifier": [
+          "militiaman-line",
+          "militia-line"
+        ],
+        "LineID": -296,
+        "IDChain": [
+          74,
+          75,
+          77,
+          473,
+          567,
+          1793
+        ]
+      },
+      {
+        "Name": "Spearman Line",
+        "Identifier": "spearman-line",
+        "LineID": -295,
+        "IDChain": [
+          93,
+          358,
+          359
+        ]
+      },
+      {
+        "Name": "Demolition Ship Line",
+        "Identifier": [
+          "demolition-ship-line",
+          "demolition-raft-line"
+        ],
+        "LineID": -294,
+        "IDChain": [
+          1104,
+          527,
+          528
+        ]
+      },
+      {
+        "Name": "Fire Ship Line",
+        "Identifier": [
+          "fire-ship-line",
+          "fire-galley-line"
+        ],
+        "LineID": -293,
+        "IDChain": [
+          1103,
+          529,
+          532
+        ]
+      },
+      {
+        "Name": "War Galley Line",
+        "Identifier": "galley-line",
+        "LineID": -292,
+        "IDChain": [
+          539,
+          21,
+          442
+        ]
+      },
+      {
+        "Name": "Battering Ram Line",
+        "Identifier": "battering-ram-line",
+        "LineID": -291,
+        "IDChain": [
+          1258,
+          35,
+          422,
+          548
+        ]
+      },
+      {
+        "Name": "Mangonel Line",
+        "Identifier": "mangonel-line",
+        "LineID": -290,
+        "IDChain": [
+          280,
+          550,
+          588
+        ]
+      },
+      {
+        "Name": "Scorpion Line",
+        "Identifier": "scorpion-line",
+        "LineID": -289,
+        "IDChain": [
+          279,
+          542
+        ]
+      },
+      {
+        "Name": "Camel Line",
+        "Identifier": [
+          "camel-line",
+          "camel-rider-line"
+        ],
+        "LineID": -288,
+        "IDChain": [
+          1755,
+          329,
+          330,
+          207
+        ]
+      },
+      {
+        "Name": "Knight Line",
+        "Identifier": "knight-line",
+        "LineID": -287,
+        "IDChain": [
+          38,
+          283,
+          569,
+          1813
+        ]
+      },
+      {
+        "Name": "Scout Cavalry Line",
+        "Identifier": "scout-cavalry-line",
+        "LineID": -286,
+        "IDChain": [
+          448,
+          546,
+          441,
+          1707
+        ]
+      },
+      {
+        "Name": "Camel Archer Line",
+        "Identifier": "camel-archer-line",
+        "LineID": -285,
+        "IDChain": [
+          1007,
+          1009
+        ]
+      },
+      {
+        "Name": "Cannon Galleon Line",
+        "Identifier": "cannon-galleon-line",
+        "LineID": -284,
+        "IDChain": [
+          420,
+          691
+        ]
+      },
+      {
+        "Name": "Longboat Line",
+        "Identifier": [
+          "longboat-line",
+          "longship-line"
+        ],
+        "LineID": -283,
+        "IDChain": [
+          250,
+          533
+        ]
+      },
+      {
+        "Name": "Turtle Ship Line",
+        "Identifier": "turtle-ship-line",
+        "LineID": -282,
+        "IDChain": [
+          831,
+          832
+        ]
+      },
+      {
+        "Name": "Berserker Line",
+        "Identifier": "berserk-line",
+        "LineID": -281,
+        "IDChain": [
+          692,
+          694
+        ]
+      },
+      {
+        "Name": "Cataphract Line",
+        "Identifier": "cataphract-line",
+        "LineID": -280,
+        "IDChain": [
+          40,
+          553
+        ]
+      },
+      {
+        "Name": "Cho Ko Nu Line",
+        "Identifier": "chu-ko-nu-line",
+        "LineID": -279,
+        "IDChain": [
+          73,
+          559
+        ]
+      },
+      {
+        "Name": "Conquistador Line",
+        "Identifier": "conquistador-line",
+        "LineID": -263,
+        "IDChain": [
+          771,
+          773
+        ]
+      },
+      {
+        "Name": "Jaguar Warrior Line",
+        "Identifier": [
+          "jaguar-man-line",
+          "jaguar-warrior-line"
+        ],
+        "LineID": -267,
+        "IDChain": [
+          725,
+          726
+        ]
+      },
+      {
+        "Name": "Huskarl Line",
+        "Identifier": "huskarl-line",
+        "LineID": -278,
+        "IDChain": [
+          41,
+          555
+        ]
+      },
+      {
+        "Name": "Janissary Line",
+        "Identifier": "janissary-line",
+        "LineID": -277,
+        "IDChain": [
+          46,
+          557
+        ]
+      },
+      {
+        "Name": "Longbow Man Line",
+        "Identifier": "longbowman-line",
+        "LineID": -276,
+        "IDChain": [
+          8,
+          530
+        ]
+      },
+      {
+        "Name": "Mameluke Line",
+        "Identifier": "mameluke-line",
+        "LineID": -275,
+        "IDChain": [
+          282,
+          556
+        ]
+      },
+      {
+        "Name": "Mangudai Line",
+        "Identifier": "mangudai-line",
+        "LineID": -274,
+        "IDChain": [
+          11,
+          561
+        ]
+      },
+      {
+        "Name": "Plumed Archer Line",
+        "Identifier": "plumed-archer-line",
+        "LineID": -265,
+        "IDChain": [
+          763,
+          765
+        ]
+      },
+      {
+        "Name": "Samurai Line",
+        "Identifier": "samurai-line",
+        "LineID": -273,
+        "IDChain": [
+          291,
+          560
+        ]
+      },
+      {
+        "Name": "Tarkan Line",
+        "Identifier": "tarkan-line",
+        "LineID": -264,
+        "IDChain": [
+          755,
+          757
+        ]
+      },
+      {
+        "Name": "Teutonic Knight Line",
+        "Identifier": "teutonic-knight-line",
+        "LineID": -272,
+        "IDChain": [
+          25,
+          554
+        ]
+      },
+      {
+        "Name": "Throwing Axeman Line",
+        "Identifier": "throwing-axeman-line",
+        "LineID": -271,
+        "IDChain": [
+          281,
+          531
+        ]
+      },
+      {
+        "Name": "War Elephant Line",
+        "Identifier": "war-elephant-line",
+        "LineID": -270,
+        "IDChain": [
+          239,
+          558
+        ]
+      },
+      {
+        "Name": "War Wagon Line",
+        "Identifier": "war-wagon-line",
+        "LineID": -269,
+        "IDChain": [
+          827,
+          829
+        ]
+      },
+      {
+        "Name": "Woad Raider Line",
+        "Identifier": "woad-raider-line",
+        "LineID": -268,
+        "IDChain": [
+          232,
+          534
+        ]
+      },
+      {
+        "Name": "Genoese Crossbow Line",
+        "Identifier": "genoese-crossbowman-line",
+        "LineID": -262,
+        "IDChain": [
+          866,
+          868
+        ]
+      },
+      {
+        "Name": "Elephant Archer Line",
+        "Identifier": "elephant-archer-line",
+        "LineID": -261,
+        "IDChain": [
+          873,
+          875
+        ]
+      },
+      {
+        "Name": "Boyar Line",
+        "Identifier": "boyar-line",
+        "LineID": -260,
+        "IDChain": [
+          876,
+          878
+        ]
+      },
+      {
+        "Name": "Huszar Line",
+        "Identifier": "magyar-huszar-line",
+        "LineID": -259,
+        "IDChain": [
+          869,
+          871
+        ]
+      },
+      {
+        "Name": "Kamayuk Line",
+        "Identifier": "kamayuk-line",
+        "LineID": -258,
+        "IDChain": [
+          879,
+          881
+        ]
+      },
+      {
+        "Name": "Caravel Line",
+        "Identifier": "caravel-line",
+        "LineID": -257,
+        "IDChain": [
+          1004,
+          1006
+        ]
+      },
+      {
+        "Name": "Organ Gun Line",
+        "Identifier": "organ-gun-line",
+        "LineID": -256,
+        "IDChain": [
+          1001,
+          1003
+        ]
+      },
+      {
+        "Name": "Gbeto Line",
+        "Identifier": "gbeto-line",
+        "LineID": -255,
+        "IDChain": [
+          1013,
+          1015
+        ]
+      },
+      {
+        "Name": "Shotel Line",
+        "Identifier": [
+          "shotel-line",
+          "shotel-warrior-line"
+        ],
+        "LineID": -254,
+        "IDChain": [
+          1016,
+          1018
+        ]
+      },
+      {
+        "Name": "Genitour Line",
+        "Identifier": "genitour-line",
+        "LineID": -253,
+        "IDChain": [
+          1010,
+          1012
+        ]
+      },
+      {
+        "Name": "Ballista Elephant Line",
+        "Identifier": "ballista-elephant-line",
+        "LineID": -252,
+        "IDChain": [
+          1120,
+          1122
+        ]
+      },
+      {
+        "Name": "Rattan Archer Line",
+        "Identifier": "rattan-archer-line",
+        "LineID": -251,
+        "IDChain": [
+          1129,
+          1131
+        ]
+      },
+      {
+        "Name": "Arambai Line",
+        "Identifier": "arambai-line",
+        "LineID": -250,
+        "IDChain": [
+          1126,
+          1128
+        ]
+      },
+      {
+        "Name": "Battle Elephant Line",
+        "Identifier": "battle-elephant-line",
+        "LineID": -249,
+        "IDChain": [
+          1132,
+          1134
+        ]
+      },
+      {
+        "Name": "Karambit Warrior Line",
+        "Identifier": "karambit-warrior-line",
+        "LineID": -248,
+        "IDChain": [
+          1123,
+          1125
+        ]
+      },
+      {
+        "Name": "Konnik Line",
+        "Identifier": "konnik-line",
+        "LineID": -247,
+        "IDChain": [
+          1225,
+          1227
+        ]
+      },
+      {
+        "Name": "Krepost Konnik Line",
+        "Identifier": "krepost-konnik-line",
+        "LineID": -246,
+        "IDChain": [
+          1254,
+          1255
+        ]
+      },
+      {
+        "Name": "Foot Konnik Line",
+        "Identifier": "foot-konnik-line",
+        "LineID": -245,
+        "IDChain": [
+          1252,
+          1253
+        ]
+      },
+      {
+        "Name": "Leitis Line",
+        "Identifier": "leitis-line",
+        "LineID": -244,
+        "IDChain": [
+          1234,
+          1236
+        ]
+      },
+      {
+        "Name": "Kipchak Line",
+        "Identifier": "kipchak-line",
+        "LineID": -243,
+        "IDChain": [
+          1231,
+          1233
+        ]
+      },
+      {
+        "Name": "Keshik Line",
+        "Identifier": "keshik-line",
+        "LineID": -242,
+        "IDChain": [
+          1228,
+          1230
+        ]
+      },
+      {
+        "Name": "Steppe Lancer Line",
+        "Identifier": "steppe-lancer-line",
+        "LineID": -241,
+        "IDChain": [
+          1370,
+          1372
+        ]
+      },
+      {
+        "Name": "Coustillier Line",
+        "Identifier": "coustillier-line",
+        "LineID": -240,
+        "IDChain": [
+          1655,
+          1657
+        ]
+      },
+      {
+        "Name": "Serjeant Line",
+        "Identifier": "serjeant-line",
+        "LineID": -239,
+        "IDChain": [
+          1658,
+          1659
+        ]
+      },
+      {
+        "Name": "Donjon Serjeant Line",
+        "Identifier": "donjon-serjeant-line",
+        "LineID": -238,
+        "IDChain": [
+          1660,
+          1661
+        ]
+      },
+      {
+        "Name": "Obuch Line",
+        "Identifier": "obuch-line",
+        "LineID": -237,
+        "IDChain": [
+          1701,
+          1703
+        ]
+      },
+      {
+        "Name": "Hussite Wagon Line",
+        "Identifier": "hussite-wagon-line",
+        "LineID": -236,
+        "IDChain": [
+          1704,
+          1706
+        ]
+      },
+      {
+        "Name": "Bombard Cannon Line",
+        "Identifier": "bombard-cannon-line",
+        "LineID": -235,
+        "IDChain": [
+          36,
+          1709
+        ]
+      },
+      {
+        "Name": "Urumi Swordsman Line",
+        "Identifier": "urumi-swordsman-line",
+        "LineID": -234,
+        "IDChain": [
+          1735,
+          1737
+        ]
+      },
+      {
+        "Name": "Ratha Melee Line",
+        "Identifier": "ratha-melee-line",
+        "LineID": -233,
+        "IDChain": [
+          1738,
+          1740
+        ]
+      },
+      {
+        "Name": "Chakram Thrower Line",
+        "Identifier": "chakram-thrower-line",
+        "LineID": -232,
+        "IDChain": [
+          1741,
+          1743
+        ]
+      },
+      {
+        "Name": "Armored Elephant Line",
+        "Identifier": "armored-elephant-line",
+        "LineID": -231,
+        "IDChain": [
+          1744,
+          1746
+        ]
+      },
+      {
+        "Name": "Ghulam Line",
+        "Identifier": "ghulam-line",
+        "LineID": -230,
+        "IDChain": [
+          1747,
+          1749
+        ]
+      },
+      {
+        "Name": "Shrivamsha Rider Line",
+        "Identifier": "shrivamsha-rider-line",
+        "LineID": -229,
+        "IDChain": [
+          1751,
+          1753
+        ]
+      },
+      {
+        "Name": "Ratha Ranged Line",
+        "Identifier": "ratha-ranged-line",
+        "LineID": -228,
+        "IDChain": [
+          1759,
+          1761
+        ]
+      },
+      {
+        "Name": "Donjon Spearman Line",
+        "Identifier": "donjon-spearman-line",
+        "LineID": -227,
+        "IDChain": [
+          1786,
+          1787,
+          1788
+        ]
+      },
+      {
+        "Name": "Centurion Line",
+        "Identifier": "centurion-line",
+        "LineID": -226,
+        "IDChain": [
+          1790,
+          1792
+        ]
+      },
+      {
+        "Name": "Composite Bowman Line",
+        "Identifier": "composite-bowman-line",
+        "LineID": -225,
+        "IDChain": [
+          1800,
+          1802
+        ]
+      },
+      {
+        "Name": "Monaspa Line",
+        "Identifier": "monaspa-line",
+        "LineID": -224,
+        "IDChain": [
+          1803,
+          1805
+        ]
+      },
+      {
+        "Name": "Qizilbash Warrior Line",
+        "Identifier": "qizilbash-warrior-line",
+        "LineID": -223,
+        "IDChain": [
+          1817,
+          1829
+        ]
+      },
+      {
+        "Name": "Immortal Line",
+        "Identifier": "immortal-line",
+        "LineID": -222,
+        "IDChain": [
+          2101,
+          2102
+        ]
+      },
+      {
+        "Name": "Strategos Line",
+        "Identifier": "strategos-line",
+        "LineID": -221,
+        "IDChain": [
+          2104,
+          2105
+        ]
+      },
+      {
+        "Name": "Hippeus Line",
+        "Identifier": "hippeus-line",
+        "LineID": -220,
+        "IDChain": [
+          2107,
+          2108
+        ]
+      },
+      {
+        "Name": "Hoplite Line",
+        "Identifier": "hoplite-line",
+        "LineID": -219,
+        "IDChain": [
+          2110,
+          2111
+        ]
+      },
+      {
+        "Name": "War Chariot Line",
+        "Identifier": "war-chariot-line",
+        "LineID": -218,
+        "IDChain": [
+          2150,
+          2151
+        ]
+      },
+      {
+        "Name": "Lembos Line",
+        "Identifier": "lembos-line",
+        "LineID": -217,
+        "IDChain": [
+          2123,
+          2124,
+          2125,
+          2126
+        ]
+      },
+      {
+        "Name": "Monoreme Line",
+        "Identifier": "monoreme-line",
+        "LineID": -216,
+        "IDChain": [
+          2127,
+          2128,
+          2129
+        ]
+      },
+      {
+        "Name": "Ancient Galley Line",
+        "Identifier": "ancient-galley-line",
+        "LineID": -215,
+        "IDChain": [
+          2130,
+          2131,
+          2132
+        ]
+      },
+      {
+        "Name": "Incendiary Ship Line",
+        "Identifier": "incendiary-ship-line",
+        "LineID": -214,
+        "IDChain": [
+          2133,
+          2134,
+          2135
+        ]
+      },
+      {
+        "Name": "Catapult Ship Line",
+        "Identifier": "catapult-ship-line",
+        "LineID": -213,
+        "IDChain": [
+          2138,
+          2139
+        ]
+      },
+      {
+        "Name": "Hei Guang Cavalry Line",
+        "Identifier": "hei-guang-cavalry-line",
+        "LineID": -211,
+        "IDChain": [
+          1944,
+          1946
+        ]
+      },
+      {
+        "Name": "Tiger Cavalry Line",
+        "Identifier": "tiger-cavalry-line",
+        "LineID": -210,
+        "IDChain": [
+          1949,
+          1951
+        ]
+      },
+      {
+        "Name": "White Feather Guard Line",
+        "Identifier": "white-feather-guard-line",
+        "LineID": -209,
+        "IDChain": [
+          1959,
+          1961
+        ]
+      },
+      {
+        "Name": "Fire Archer Line",
+        "Identifier": "fire-archer-line",
+        "LineID": -208,
+        "IDChain": [
+          1968,
+          1970
+        ]
+      },
+      {
+        "Name": "Fire Lancer Line",
+        "Identifier": "fire-lancer-line",
+        "LineID": -207,
+        "IDChain": [
+          1901,
+          1903
+        ]
+      },
+      {
+        "Name": "Rocket Cart Line",
+        "Identifier": "rocket-cart-line",
+        "LineID": -206,
+        "IDChain": [
+          1904,
+          1906
+        ]
+      },
+      {
+        "Name": "Iron Pagoda Line",
+        "Identifier": "iron-pagoda-line",
+        "LineID": -205,
+        "IDChain": [
+          1908,
+          1910
+        ]
+      },
+      {
+        "Name": "Liao Dao Line",
+        "Identifier": "liao-dao-line",
+        "LineID": -204,
+        "IDChain": [
+          1920,
+          1922
+        ]
+      },
+      {
+        "Name": "Companion Cavalry Line",
+        "Identifier": "companion-cavalry-line",
+        "LineID": -203,
+        "IDChain": [
+          2382,
+          2383
+        ]
+      },
+      {
+        "Name": "Phalangite Line",
+        "Identifier": "phalangite-line",
+        "LineID": -202,
+        "IDChain": [
+          2384,
+          2385
+        ]
+      },
+      {
+        "Name": "Rhomphaia Warrior Line",
+        "Identifier": "rhomphaia-warrior-line",
+        "LineID": -201,
+        "IDChain": [
+          2386,
+          2387
+        ]
+      },
+      {
+        "Name": "Pattiyodha Longbowman Line",
+        "Identifier": "pattiyodha-longbowman-line",
+        "LineID": -200,
+        "IDChain": [
+          2388,
+          2389
+        ]
+      },
+      {
+        "Name": "Champi Line",
+        "Identifier": "champi-line",
+        "LineID": -301,
+        "IDChain": [
+          2550,
+          2588,
+          2552,
+          2554
+        ]
+      },
+      {
+        "Name": "Bolas Rider Line",
+        "Identifier": "bolas-rider-line",
+        "LineID": -302,
+        "IDChain": [
+          2569,
+          2571
+        ]
+      },
+      {
+        "Name": "Temple Guard Line",
+        "Identifier": "temple-guard-line",
+        "LineID": -303,
+        "IDChain": [
+          2586,
+          2587
+        ]
+      },
+      {
+        "Name": "Ibirapema Warrior Line",
+        "Identifier": "ibirapema-warrior-line",
+        "LineID": -304,
+        "IDChain": [
+          2582,
+          2584
+        ]
+      },
+      {
+        "Name": "Guecha Warrior Line",
+        "Identifier": "guecha-warrior-line",
+        "LineID": -305,
+        "IDChain": [
+          2562,
+          2564
+        ]
+      },
+      {
+        "Name": "Kona Line",
+        "Identifier": "kona-line",
+        "LineID": -306,
+        "IDChain": [
+          2566,
+          2568
+        ]
+      },
+      {
+        "Name": "Blackwood Archer Line",
+        "Identifier": "blackwood-archer-line",
+        "LineID": -307,
+        "IDChain": [
+          2579,
+          2581
+        ]
+      },
+      {
+        "Name": "Hulk Line",
+        "Identifier": "hulk-line",
+        "LineID": -308,
+        "IDChain": [
+          2626,
+          2627,
+          2628
+        ]
+      },
+      {
+        "Name": "War Dog Line",
+        "Identifier": "war-dog-line",
+        "LineID": -309,
+        "IDChain": [
+          2612,
+          2613
+        ]
+      },
+      {
+        "Name": "Mounted Crossbowman Line",
+        "Identifier": "mounted-crossbowman-line",
+        "LineID": -315,
+        "IDChain": [
+          2700,
+          2701
+        ]
+      },
+      {
+        "Name": "Varangian Guard Line",
+        "Identifier": "varangian-guard-line",
+        "LineID": -311,
+        "IDChain": [
+          2703,
+          2704
+        ]
+      },
+      {
+        "Name": "Hearth Troop Line",
+        "Identifier": "hearth-troop-line",
+        "LineID": -312,
+        "IDChain": [
+          2705,
+          2706
+        ]
+      },
+      {
+        "Name": "Jarl Line",
+        "Identifier": "jarl-line",
+        "LineID": -313,
+        "IDChain": [
+          2708,
+          2709
+        ]
+      },
+      {
+        "Name": "Jomsviking Line",
+        "Identifier": "jomsviking-line",
+        "LineID": -314,
+        "IDChain": [
+          2711,
+          2712
+        ]
+      }
+    ]
+  },
+  "dropsites": {
+    "drop_site_list": [
+      {
+        "name": "Town Center",
+        "building_id": 109,
+        "worker_object_group": 4,
+        "accepts_livestock": true,
+        "target_list": [
+          {
+            "name": "Hunted Animals",
+            "object_group": 9,
+            "object_state": 5,
+            "object_state_forced_return_state": 2,
+            "attribute_type": 15
+          },
+          {
+            "name": "Hunting Animals",
+            "object_group": 10,
+            "object_state": 5,
+            "attribute_type": 15
+          },
+          {
+            "name": "Sheep",
+            "object_group": 58,
+            "object_state": 5,
+            "attribute_type": 0
+          },
+          {
+            "name": "Forage",
+            "object_group": 7,
+            "attribute_type": 16
+          },
+          {
+            "name": "Farms",
+            "object_group": 49,
+            "worker_num": 0,
+            "attribute_type": 16
+          },
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          },
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          },
+          {
+            "name": "Oysters",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Town Center Foundation",
+        "building_id": 621,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Hunted Animals",
+            "object_group": 9,
+            "object_state": 5,
+            "object_state_forced_return_state": 2,
+            "attribute_type": 15
+          },
+          {
+            "name": "Hunting Animals",
+            "object_group": 10,
+            "object_state": 5,
+            "attribute_type": 15,
+            "allow_resource_distance_update": false
+          },
+          {
+            "name": "Sheep",
+            "object_group": 58,
+            "object_state": 5,
+            "attribute_type": 0
+          },
+          {
+            "name": "Forage",
+            "object_group": 7,
+            "attribute_type": 16
+          },
+          {
+            "name": "Farms",
+            "object_group": 49,
+            "worker_num": 0,
+            "attribute_type": 16
+          },
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          },
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          },
+          {
+            "name": "Oysters",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Mill",
+        "building_id": 68,
+        "worker_object_group": 4,
+        "accepts_livestock": true,
+        "target_list": [
+          {
+            "name": "Hunted Animals",
+            "object_group": 9,
+            "object_state": 5,
+            "object_state_forced_return_state": 2,
+            "attribute_type": 15
+          },
+          {
+            "name": "Hunting Animals",
+            "object_group": 10,
+            "object_state": 5,
+            "attribute_type": 15,
+            "allow_resource_distance_update": false
+          },
+          {
+            "name": "Sheep",
+            "object_group": 58,
+            "object_state": 5,
+            "attribute_type": 0
+          },
+          {
+            "name": "Forage",
+            "object_group": 7,
+            "attribute_type": 16
+          },
+          {
+            "name": "Farms",
+            "object_group": 49,
+            "worker_num": 0,
+            "attribute_type": 16
+          },
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          }
+        ]
+      },
+      {
+        "name": "Saw Mill",
+        "building_id": 562,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          }
+        ]
+      },
+      {
+        "name": "Mining Camp",
+        "building_id": 584,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          },
+          {
+            "name": "Oysters",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Farm",
+        "building_id": 50,
+        "worker_object_group": 4,
+        "worker_object_list": [
+          214,
+          259
+        ],
+        "target_list": [
+          {
+            "name": "Farms",
+            "object_group": 49,
+            "attribute_type": 16,
+            "allow_resource_distance_update": false
+          }
+        ]
+      },
+      {
+        "name": "Rice Farm",
+        "building_id": 1187,
+        "worker_object_list": [
+          214,
+          259
+        ],
+        "target_list": [
+          {
+            "name": "Farms",
+            "object_group": 49,
+            "attribute_type": 16,
+            "allow_resource_distance_update": false
+          }
+        ]
+      },
+      {
+        "name": "Mule Cart",
+        "building_id": 1808,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Hunted Animals",
+            "object_group": 9,
+            "object_state": 5,
+            "object_state_forced_return_state": 2,
+            "attribute_type": 15
+          },
+          {
+            "name": "Hunting Animals",
+            "object_group": 10,
+            "object_state": 5,
+            "attribute_type": 15
+          },
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          },
+          {
+            "name": "Oysters",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Dock",
+        "building_id": 45,
+        "worker_object_list": [
+          2333,
+          2334
+        ],
+        "auto_work": false,
+        "target_list": [
+          {
+            "name": "Oysters",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Dock",
+        "building_id": 45,
+        "worker_object_group": 4,
+        "auto_work": false,
+        "target_list": [
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Dock",
+        "building_id": 45,
+        "worker_object_group": 21,
+        "target_list": [
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          },
+          {
+            "name": "Oysters",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Port",
+        "building_id": 2172,
+        "worker_object_list": [
+          2333,
+          2334
+        ],
+        "auto_work": false,
+        "target_list": [
+          {
+            "name": "Oyster",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Port",
+        "building_id": 2172,
+        "worker_object_group": 4,
+        "auto_work": false,
+        "target_list": [
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Port",
+        "building_id": 2172,
+        "worker_object_group": 21,
+        "target_list": [
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          },
+          {
+            "name": "Oyster",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Settlement",
+        "building_id": 2556,
+        "worker_object_group": 4,
+        "accepts_livestock": true,
+        "target_list": [
+          {
+            "name": "Hunted Animals",
+            "object_group": 9,
+            "object_state": 5,
+            "object_state_forced_return_state": 2,
+            "attribute_type": 15
+          },
+          {
+            "name": "Hunting Animals",
+            "object_group": 10,
+            "object_state": 5,
+            "attribute_type": 15
+          },
+          {
+            "name": "Sheep",
+            "object_group": 58,
+            "object_state": 5,
+            "attribute_type": 0
+          },
+          {
+            "name": "Forage",
+            "object_group": 7,
+            "attribute_type": 16
+          },
+          {
+            "name": "Farms",
+            "object_group": 49,
+            "worker_num": 0,
+            "attribute_type": 16
+          },
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          },
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      },
+      {
+        "name": "Pasture Annex",
+        "building_id": 1890,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Pasture Livestock",
+            "object_group": 49,
+            "worker_num": 0,
+            "attribute_type": 0,
+            "allow_resource_distance_update": false
+          }
+        ]
+      },
+      {
+        "name": "Pasture Foundation",
+        "building_id": 1889,
+        "target_list": [
+          {
+            "name": "Pasture Livestock",
+            "object_group": 49
+          }
+        ]
+      },
+      {
+        "name": "Pasture",
+        "building_id": 1897,
+        "target_list": [
+          {
+            "name": "Pasture Livestock",
+            "object_group": 49
+          }
+        ]
+      },
+      {
+        "name": "Pasture Mangrove",
+        "building_id": 1893,
+        "target_list": [
+          {
+            "name": "Pasture Livestock",
+            "object_group": 49
+          }
+        ]
+      },
+      {
+        "name": "Watch Tower",
+        "building_id": 79,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Guard Tower",
+        "building_id": 234,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Keep",
+        "building_id": 235,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Fort",
+        "building_id": 82,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Fire Tower",
+        "building_id": 190,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Bombard Tower",
+        "building_id": 236,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Accursed Tower",
+        "building_id": 684,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Tower of Flies",
+        "building_id": 685,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Sea Tower",
+        "building_id": 785,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Fortified Tower",
+        "building_id": 1102,
+        "worker_object_group": 4,
+        "target_list": [
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ],
+        "target_civs": [
+          55
+        ]
+      },
+      {
+        "name": "Greek Command Tent Dropsite",
+        "building_id": 2405,
+        "worker_object_group": 4,
+        "accepts_livestock": true,
+        "target_list": [
+          {
+            "name": "Hunted Animals",
+            "object_group": 9,
+            "object_state": 5,
+            "object_state_forced_return_state": 2,
+            "attribute_type": 15
+          },
+          {
+            "name": "Hunting Animals",
+            "object_group": 10,
+            "object_state": 5,
+            "attribute_type": 15
+          },
+          {
+            "name": "Sheep",
+            "object_group": 58,
+            "object_state": 5,
+            "attribute_type": 0
+          },
+          {
+            "name": "Forage",
+            "object_group": 7,
+            "attribute_type": 16
+          },
+          {
+            "name": "Farms",
+            "object_group": 49,
+            "worker_num": 0,
+            "attribute_type": 16
+          },
+          {
+            "name": "Shore Fish",
+            "object_group": 33,
+            "attribute_type": 17
+          },
+          {
+            "name": "Fish",
+            "object_group": 5,
+            "attribute_type": 17
+          },
+          {
+            "name": "Trees",
+            "object_group": 15,
+            "attribute_type": 1
+          },
+          {
+            "name": "Stone Mines",
+            "object_group": 8,
+            "attribute_type": 2
+          },
+          {
+            "name": "Gold Mines",
+            "object_group": 32,
+            "attribute_type": 3
+          },
+          {
+            "name": "Oysters",
+            "object_group": 63,
+            "attribute_type": 3
+          }
+        ],
+        "update_ai_resource_types": [
+          {
+            "resource_type": 0
+          },
+          {
+            "resource_type": 1
+          },
+          {
+            "resource_type": 2
+          },
+          {
+            "resource_type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "civilizations_count": 63
+}
