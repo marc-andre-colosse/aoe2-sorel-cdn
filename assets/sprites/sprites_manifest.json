@@ -4,24 +4,24 @@
     "height": 104,
     "hotspotX": 86,
     "hotspotY": 58,
-    "src": "/assets/sprites/b_foundation_2.png?v=16"
+    "src": "/assets/sprites/b_foundation_2.png?v=17"
   },
   "b_foundation_3": {
     "width": 264,
     "height": 148,
     "hotspotX": 132,
     "hotspotY": 80,
-    "src": "/assets/sprites/b_foundation_3.png?v=16"
+    "src": "/assets/sprites/b_foundation_3.png?v=17"
   },
   "b_foundation_4": {
     "width": 348,
     "height": 192,
     "hotspotX": 172,
     "hotspotY": 108,
-    "src": "/assets/sprites/b_foundation_4.png?v=16"
+    "src": "/assets/sprites/b_foundation_4.png?v=17"
   },
   "b_town_center_1": {
-    "src": "/assets/sprites/b_town_center_sorel.png?v=16",
+    "src": "/assets/sprites/b_town_center_sorel.png?v=17",
     "width": 336,
     "height": 325,
     "frames": 1,
@@ -32,7 +32,7 @@
     "hotspotY": 234
   },
   "b_town_center_2": {
-    "src": "/assets/sprites/b_town_center_sorel.png?v=16",
+    "src": "/assets/sprites/b_town_center_sorel.png?v=17",
     "width": 336,
     "height": 325,
     "frames": 1,
@@ -43,7 +43,7 @@
     "hotspotY": 234
   },
   "b_town_center_3": {
-    "src": "/assets/sprites/b_town_center_sorel.png?v=16",
+    "src": "/assets/sprites/b_town_center_sorel.png?v=17",
     "width": 336,
     "height": 325,
     "frames": 1,
@@ -54,7 +54,7 @@
     "hotspotY": 234
   },
   "b_town_center_4": {
-    "src": "/assets/sprites/b_town_center_sorel.png?v=16",
+    "src": "/assets/sprites/b_town_center_sorel.png?v=17",
     "width": 336,
     "height": 325,
     "frames": 1,
@@ -69,38 +69,38 @@
     "height": 156,
     "hotspotX": 98,
     "hotspotY": 112,
-    "src": "/assets/sprites/b_house.png?v=16"
+    "src": "/assets/sprites/b_house.png?v=17"
   },
   "b_house_3": {
     "width": 196,
     "height": 160,
     "hotspotX": 98,
     "hotspotY": 115,
-    "src": "/assets/sprites/b_house_3.png?v=16"
+    "src": "/assets/sprites/b_house_3.png?v=17"
   },
   "b_mill": {
     "width": 210,
     "height": 176,
     "hotspotX": 105,
     "hotspotY": 126,
-    "src": "/assets/sprites/b_mill.png?v=16"
+    "src": "/assets/sprites/b_mill.png?v=17"
   },
   "b_mill_3": {
     "width": 215,
     "height": 192,
     "hotspotX": 107,
     "hotspotY": 138,
-    "src": "/assets/sprites/b_mill_3.png?v=16"
+    "src": "/assets/sprites/b_mill_3.png?v=17"
   },
   "b_lumber_camp": {
     "width": 228,
     "height": 139,
     "hotspotX": 114,
     "hotspotY": 94,
-    "src": "/assets/sprites/b_lumber_camp.png?v=16"
+    "src": "/assets/sprites/b_lumber_camp.png?v=17"
   },
   "b_mining_camp": {
-    "src": "/assets/sprites/b_mining_camp.png?v=16",
+    "src": "/assets/sprites/b_mining_camp.png?v=17",
     "width": 216,
     "height": 182,
     "frames": 1,
@@ -115,45 +115,45 @@
     "height": 271,
     "hotspotX": 150,
     "hotspotY": 189,
-    "src": "/assets/sprites/b_barracks.png?v=16"
+    "src": "/assets/sprites/b_barracks.png?v=17"
   },
   "b_barracks_3": {
     "width": 300,
     "height": 271,
     "hotspotX": 150,
     "hotspotY": 189,
-    "src": "/assets/sprites/b_barracks_3.png?v=16"
+    "src": "/assets/sprites/b_barracks_3.png?v=17"
   },
   "b_archery_range": {
     "width": 308,
     "height": 264,
     "hotspotX": 154,
     "hotspotY": 184,
-    "src": "/assets/sprites/b_archery_range.png?v=16"
+    "src": "/assets/sprites/b_archery_range.png?v=17"
   },
   "b_archery_range_3": {
     "width": 308,
     "height": 264,
     "hotspotX": 154,
     "hotspotY": 184,
-    "src": "/assets/sprites/b_archery_range_3.png?v=16"
+    "src": "/assets/sprites/b_archery_range_3.png?v=17"
   },
   "b_stable": {
     "width": 305,
     "height": 214,
     "hotspotX": 152,
     "hotspotY": 149,
-    "src": "/assets/sprites/b_stable.png?v=16"
+    "src": "/assets/sprites/b_stable.png?v=17"
   },
   "b_stable_3": {
     "width": 305,
     "height": 214,
     "hotspotX": 152,
     "hotspotY": 149,
-    "src": "/assets/sprites/b_stable_3.png?v=16"
+    "src": "/assets/sprites/b_stable_3.png?v=17"
   },
   "b_blacksmith": {
-    "src": "/assets/sprites/b_blacksmith_forges.png?v=16",
+    "src": "/assets/sprites/b_blacksmith_forges.png?v=17",
     "width": 268,
     "height": 238,
     "frames": 1,
@@ -164,7 +164,7 @@
     "hotspotY": 181
   },
   "b_blacksmith_3": {
-    "src": "/assets/sprites/b_blacksmith_3.png?v=16",
+    "src": "/assets/sprites/b_blacksmith_3.png?v=17",
     "width": 286,
     "height": 236,
     "frames": 1,
@@ -179,24 +179,24 @@
     "height": 204,
     "hotspotX": 155,
     "hotspotY": 142,
-    "src": "/assets/sprites/b_market.png?v=16"
+    "src": "/assets/sprites/b_market.png?v=17"
   },
   "b_market_3": {
     "width": 310,
     "height": 204,
     "hotspotX": 155,
     "hotspotY": 142,
-    "src": "/assets/sprites/b_market_3.png?v=16"
+    "src": "/assets/sprites/b_market_3.png?v=17"
   },
   "b_market_4": {
     "width": 310,
     "height": 204,
     "hotspotX": 155,
     "hotspotY": 142,
-    "src": "/assets/sprites/b_market_4.png?v=16"
+    "src": "/assets/sprites/b_market_4.png?v=17"
   },
   "b_tower": {
-    "src": "/assets/sprites/b_tower_korhani.png?v=16",
+    "src": "/assets/sprites/b_tower_korhani.png?v=17",
     "width": 168,
     "height": 183,
     "frames": 1,
@@ -207,7 +207,7 @@
     "hotspotY": 156
   },
   "b_tower_3": {
-    "src": "/assets/sprites/b_tower.png?v=16",
+    "src": "/assets/sprites/b_tower.png?v=17",
     "width": 228,
     "height": 248,
     "frames": 1,
@@ -222,31 +222,31 @@
     "height": 207,
     "hotspotX": 154,
     "hotspotY": 144,
-    "src": "/assets/sprites/b_siege_workshop.png?v=16"
+    "src": "/assets/sprites/b_siege_workshop.png?v=17"
   },
   "b_monastery": {
     "width": 298,
     "height": 261,
     "hotspotX": 149,
     "hotspotY": 187,
-    "src": "/assets/sprites/b_monastery.png?v=16"
+    "src": "/assets/sprites/b_monastery.png?v=17"
   },
   "b_university": {
     "width": 315,
     "height": 219,
     "hotspotX": 157,
     "hotspotY": 148,
-    "src": "/assets/sprites/b_university.png?v=16"
+    "src": "/assets/sprites/b_university.png?v=17"
   },
   "b_university_4": {
     "width": 315,
     "height": 208,
     "hotspotX": 157,
     "hotspotY": 141,
-    "src": "/assets/sprites/b_university_4.png?v=16"
+    "src": "/assets/sprites/b_university_4.png?v=17"
   },
   "b_castle": {
-    "src": "/assets/sprites/b_chateau_simard.png?v=16",
+    "src": "/assets/sprites/b_chateau_simard.png?v=17",
     "width": 340,
     "height": 284,
     "frames": 1,
@@ -257,7 +257,7 @@
     "hotspotY": 216
   },
   "b_dock": {
-    "src": "/assets/sprites/b_dock_belvedere.png?v=16",
+    "src": "/assets/sprites/b_dock_belvedere.png?v=17",
     "width": 296,
     "height": 239,
     "frames": 1,
@@ -268,7 +268,7 @@
     "hotspotY": 184
   },
   "b_dock_3": {
-    "src": "/assets/sprites/b_dock.png?v=16",
+    "src": "/assets/sprites/b_dock.png?v=17",
     "width": 268,
     "height": 217,
     "frames": 1,
@@ -279,7 +279,7 @@
     "hotspotY": 156
   },
   "b_wonder_colisee_cardin": {
-    "src": "/assets/sprites/b_wonder_colisee_cardin.png?v=16",
+    "src": "/assets/sprites/b_wonder_colisee_cardin.png?v=17",
     "width": 385,
     "height": 295,
     "frames": 1,
@@ -290,7 +290,7 @@
     "hotspotY": 224
   },
   "b_wonder_complexe_aquatique": {
-    "src": "/assets/sprites/b_wonder_complexe_aquatique.png?v=16",
+    "src": "/assets/sprites/b_wonder_complexe_aquatique.png?v=17",
     "width": 390,
     "height": 277,
     "frames": 1,
@@ -305,10 +305,10 @@
     "height": 301,
     "hotspotX": 185,
     "hotspotY": 216,
-    "src": "/assets/sprites/b_wonder_brasserie_colisee.png?v=16"
+    "src": "/assets/sprites/b_wonder_brasserie_colisee.png?v=17"
   },
   "b_wonder_silos_grains": {
-    "src": "/assets/sprites/b_wonder_silos_grains.png?v=16",
+    "src": "/assets/sprites/b_wonder_silos_grains.png?v=17",
     "width": 385,
     "height": 360,
     "frames": 1,
@@ -323,38 +323,38 @@
     "height": 152,
     "hotspotX": 60,
     "hotspotY": 144,
-    "src": "/assets/sprites/res_tree_oak.png?v=16"
+    "src": "/assets/sprites/res_tree_oak.png?v=17"
   },
   "res_tree_pine": {
     "width": 72,
     "height": 128,
     "hotspotX": 36,
     "hotspotY": 124,
-    "src": "/assets/sprites/res_tree_pine.png?v=16"
+    "src": "/assets/sprites/res_tree_pine.png?v=17"
   },
   "res_berry": {
     "width": 88,
     "height": 56,
     "hotspotX": 48,
     "hotspotY": 40,
-    "src": "/assets/sprites/res_berry.png?v=16"
+    "src": "/assets/sprites/res_berry.png?v=17"
   },
   "res_gold": {
     "width": 88,
     "height": 48,
     "hotspotX": 48,
     "hotspotY": 28,
-    "src": "/assets/sprites/res_gold.png?v=16"
+    "src": "/assets/sprites/res_gold.png?v=17"
   },
   "res_stone": {
     "width": 88,
     "height": 40,
     "hotspotX": 48,
     "hotspotY": 24,
-    "src": "/assets/sprites/res_stone.png?v=16"
+    "src": "/assets/sprites/res_stone.png?v=17"
   },
   "res_relic": {
-    "src": "/assets/sprites/res_relic.png?v=16",
+    "src": "/assets/sprites/res_relic.png?v=17",
     "width": 76,
     "height": 112,
     "frames": 1,
@@ -365,7 +365,7 @@
     "hotspotY": 90
   },
   "u_villager": {
-    "src": "/assets/sprites/u_villager.png?v=16",
+    "src": "/assets/sprites/u_villager.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -381,24 +381,24 @@
     "height": 52,
     "hotspotX": 8,
     "hotspotY": 48,
-    "src": "/assets/sprites/u_villager_lumber.png?v=16"
+    "src": "/assets/sprites/u_villager_lumber.png?v=17"
   },
   "u_villager_miner": {
     "width": 20,
     "height": 44,
     "hotspotX": 8,
     "hotspotY": 40,
-    "src": "/assets/sprites/u_villager_miner.png?v=16"
+    "src": "/assets/sprites/u_villager_miner.png?v=17"
   },
   "u_villager_farmer": {
     "width": 40,
     "height": 48,
     "hotspotX": 28,
     "hotspotY": 44,
-    "src": "/assets/sprites/u_villager_farmer.png?v=16"
+    "src": "/assets/sprites/u_villager_farmer.png?v=17"
   },
   "u_flaneur_augusta": {
-    "src": "/assets/sprites/u_flaneur_augusta.png?v=16",
+    "src": "/assets/sprites/u_flaneur_augusta.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -410,7 +410,7 @@
     "renderScale": 0.46
   },
   "u_bagarreur": {
-    "src": "/assets/sprites/u_bagarreur.png?v=16",
+    "src": "/assets/sprites/u_bagarreur.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -422,7 +422,7 @@
     "renderScale": 0.47
   },
   "u_legende_sorel": {
-    "src": "/assets/sprites/u_legende_sorel.png?v=16",
+    "src": "/assets/sprites/u_legende_sorel.png?v=17",
     "width": 2336,
     "height": 1136,
     "frames": 16,
@@ -434,7 +434,7 @@
     "renderScale": 0.49
   },
   "u_marinier_ahmbr": {
-    "src": "/assets/sprites/u_marinier_ahmbr.png?v=16",
+    "src": "/assets/sprites/u_marinier_ahmbr.png?v=17",
     "width": 2336,
     "height": 1104,
     "frames": 16,
@@ -446,7 +446,7 @@
     "renderScale": 0.48
   },
   "u_tireur_chenal": {
-    "src": "/assets/sprites/u_tireur_chenal.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -458,7 +458,7 @@
     "renderScale": 0.46
   },
   "u_joueur_alliance": {
-    "src": "/assets/sprites/u_joueur_alliance.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -470,7 +470,7 @@
     "renderScale": 0.46
   },
   "u_gars_becik": {
-    "src": "/assets/sprites/u_gars_becik.png?v=16",
+    "src": "/assets/sprites/u_gars_becik.png?v=17",
     "width": 2624,
     "height": 1216,
     "frames": 16,
@@ -482,7 +482,7 @@
     "renderScale": 0.48
   },
   "u_pickup_f150": {
-    "src": "/assets/sprites/u_pickup_f150.png?v=16",
+    "src": "/assets/sprites/u_pickup_f150.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -494,7 +494,7 @@
     "renderScale": 0.5
   },
   "u_tresor_quadriporteur": {
-    "src": "/assets/sprites/u_tresor_quadriporteur.png?v=16",
+    "src": "/assets/sprites/u_tresor_quadriporteur.png?v=17",
     "width": 2752,
     "height": 1280,
     "frames": 16,
@@ -506,7 +506,7 @@
     "renderScale": 0.49
   },
   "u_lanceur_curling": {
-    "src": "/assets/sprites/u_lanceur_curling.png?v=16",
+    "src": "/assets/sprites/u_lanceur_curling.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -518,7 +518,7 @@
     "renderScale": 0.5
   },
   "u_canon_patates": {
-    "src": "/assets/sprites/u_canon_patates.png?v=16",
+    "src": "/assets/sprites/u_canon_patates.png?v=17",
     "width": 2816,
     "height": 1280,
     "frames": 16,
@@ -530,7 +530,7 @@
     "renderScale": 0.49
   },
   "u_grue_portuaire": {
-    "src": "/assets/sprites/u_grue_portuaire.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -542,7 +542,7 @@
     "renderScale": 0.54
   },
   "u_pilier_baboche": {
-    "src": "/assets/sprites/u_pilier_baboche.png?v=16",
+    "src": "/assets/sprites/u_pilier_baboche.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -554,7 +554,7 @@
     "renderScale": 0.47
   },
   "u_camion_recyclo": {
-    "src": "/assets/sprites/u_camion_recyclo.png?v=16",
+    "src": "/assets/sprites/u_camion_recyclo.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -566,7 +566,7 @@
     "renderScale": 0.48
   },
   "u_chaloupe_peche": {
-    "src": "/assets/sprites/u_chaloupe_peche.png?v=16",
+    "src": "/assets/sprites/u_chaloupe_peche.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -578,7 +578,7 @@
     "renderScale": 0.5
   },
   "u_traversier_sorel": {
-    "src": "/assets/sprites/u_traversier_sorel.png?v=16",
+    "src": "/assets/sprites/u_traversier_sorel.png?v=17",
     "width": 3584,
     "height": 1600,
     "frames": 16,
@@ -590,7 +590,7 @@
     "renderScale": 0.54
   },
   "u_seadoo_guerre": {
-    "src": "/assets/sprites/u_seadoo_guerre.png?v=16",
+    "src": "/assets/sprites/u_seadoo_guerre.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -602,7 +602,7 @@
     "renderScale": 0.5
   },
   "u_braconnier_chenal": {
-    "src": "/assets/sprites/u_braconnier_chenal.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -614,7 +614,7 @@
     "renderScale": 0.47
   },
   "u_karen_syndicat": {
-    "src": "/assets/sprites/u_karen_syndicat.png?v=16",
+    "src": "/assets/sprites/u_karen_syndicat.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -626,7 +626,7 @@
     "renderScale": 0.5
   },
   "u_les_triplottes": {
-    "src": "/assets/sprites/u_les_triplottes.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -638,7 +638,7 @@
     "renderScale": 0.5
   },
   "u_barista_fixie": {
-    "src": "/assets/sprites/u_barista_fixie.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -650,7 +650,7 @@
     "renderScale": 0.48
   },
   "u_influenceur_puff": {
-    "src": "/assets/sprites/u_influenceur_puff.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -662,7 +662,7 @@
     "renderScale": 0.47
   },
   "u_soudeur_qit": {
-    "src": "/assets/sprites/u_soudeur_qit.png?v=16",
+    "src": "/assets/sprites/u_soudeur_qit.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -674,7 +674,7 @@
     "renderScale": 0.48
   },
   "u_queteux_super_c": {
-    "src": "/assets/sprites/u_queteux_super_c.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -686,7 +686,7 @@
     "renderScale": 0.45
   },
   "u_villager_walk": {
-    "src": "/assets/sprites/u_villager_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -698,7 +698,7 @@
     "renderScale": 0.46
   },
   "u_villager_chop": {
-    "src": "/assets/sprites/u_villager_chop.png?v=16",
+    "src": "/assets/sprites/u_villager_chop.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -710,7 +710,7 @@
     "renderScale": 0.46
   },
   "u_villager_mine": {
-    "src": "/assets/sprites/u_villager_mine.png?v=16",
+    "src": "/assets/sprites/u_villager_mine.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -722,7 +722,7 @@
     "renderScale": 0.46
   },
   "u_villager_build": {
-    "src": "/assets/sprites/u_villager_build.png?v=16",
+    "src": "/assets/sprites/u_villager_build.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -734,7 +734,7 @@
     "renderScale": 0.46
   },
   "u_villager_forage": {
-    "src": "/assets/sprites/u_villager_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -746,7 +746,7 @@
     "renderScale": 0.46
   },
   "u_villager_farm_work": {
-    "src": "/assets/sprites/u_villager_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -758,7 +758,7 @@
     "renderScale": 0.46
   },
   "u_villager_lumber_walk": {
-    "src": "/assets/sprites/u_villager_lumber_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_lumber_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -770,7 +770,7 @@
     "renderScale": 0.46
   },
   "u_villager_miner_walk": {
-    "src": "/assets/sprites/u_villager_miner_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_miner_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -782,7 +782,7 @@
     "renderScale": 0.46
   },
   "u_villager_farmer_walk": {
-    "src": "/assets/sprites/u_villager_farmer_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_farmer_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -794,7 +794,7 @@
     "renderScale": 0.46
   },
   "u_flaneur_augusta_walk": {
-    "src": "/assets/sprites/u_flaneur_augusta_walk.png?v=16",
+    "src": "/assets/sprites/u_flaneur_augusta_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -806,7 +806,7 @@
     "renderScale": 0.46
   },
   "u_flaneur_augusta_attack": {
-    "src": "/assets/sprites/u_flaneur_augusta_attack.png?v=16",
+    "src": "/assets/sprites/u_flaneur_augusta_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -818,7 +818,7 @@
     "renderScale": 0.46
   },
   "u_bagarreur_walk": {
-    "src": "/assets/sprites/u_bagarreur_walk.png?v=16",
+    "src": "/assets/sprites/u_bagarreur_walk.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -830,7 +830,7 @@
     "renderScale": 0.47
   },
   "u_bagarreur_attack": {
-    "src": "/assets/sprites/u_bagarreur_attack.png?v=16",
+    "src": "/assets/sprites/u_bagarreur_attack.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -842,7 +842,7 @@
     "renderScale": 0.47
   },
   "u_legende_sorel_walk": {
-    "src": "/assets/sprites/u_legende_sorel_walk.png?v=16",
+    "src": "/assets/sprites/u_legende_sorel_walk.png?v=17",
     "width": 2336,
     "height": 1136,
     "frames": 16,
@@ -854,7 +854,7 @@
     "renderScale": 0.49
   },
   "u_legende_sorel_attack": {
-    "src": "/assets/sprites/u_legende_sorel_attack.png?v=16",
+    "src": "/assets/sprites/u_legende_sorel_attack.png?v=17",
     "width": 2336,
     "height": 1136,
     "frames": 16,
@@ -866,7 +866,7 @@
     "renderScale": 0.49
   },
   "u_marinier_ahmbr_walk": {
-    "src": "/assets/sprites/u_marinier_ahmbr_walk.png?v=16",
+    "src": "/assets/sprites/u_marinier_ahmbr_walk.png?v=17",
     "width": 2336,
     "height": 1104,
     "frames": 16,
@@ -878,7 +878,7 @@
     "renderScale": 0.48
   },
   "u_marinier_ahmbr_attack": {
-    "src": "/assets/sprites/u_marinier_ahmbr_attack.png?v=16",
+    "src": "/assets/sprites/u_marinier_ahmbr_attack.png?v=17",
     "width": 2336,
     "height": 1104,
     "frames": 16,
@@ -890,7 +890,7 @@
     "renderScale": 0.48
   },
   "u_queteux_super_c_walk": {
-    "src": "/assets/sprites/u_queteux_super_c_walk.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -902,7 +902,7 @@
     "renderScale": 0.45
   },
   "u_queteux_super_c_attack": {
-    "src": "/assets/sprites/u_queteux_super_c_attack.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -914,7 +914,7 @@
     "renderScale": 0.45
   },
   "u_triplotte_poussette_walk": {
-    "src": "/assets/sprites/u_les_triplottes_walk.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes_walk.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -926,7 +926,7 @@
     "renderScale": 0.5
   },
   "u_triplotte_poussette_attack": {
-    "src": "/assets/sprites/u_les_triplottes_attack.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes_attack.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -938,7 +938,7 @@
     "renderScale": 0.5
   },
   "u_soudeur_qit_walk": {
-    "src": "/assets/sprites/u_soudeur_qit_walk.png?v=16",
+    "src": "/assets/sprites/u_soudeur_qit_walk.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -950,7 +950,7 @@
     "renderScale": 0.48
   },
   "u_soudeur_qit_attack": {
-    "src": "/assets/sprites/u_soudeur_qit_attack.png?v=16",
+    "src": "/assets/sprites/u_soudeur_qit_attack.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -962,7 +962,7 @@
     "renderScale": 0.48
   },
   "u_chasseur_sainte_anne_walk": {
-    "src": "/assets/sprites/u_braconnier_chenal_walk.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal_walk.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -974,7 +974,7 @@
     "renderScale": 0.47
   },
   "u_chasseur_sainte_anne_attack": {
-    "src": "/assets/sprites/u_braconnier_chenal_attack.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal_attack.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -986,7 +986,7 @@
     "renderScale": 0.47
   },
   "u_archer_colonie_walk": {
-    "src": "/assets/sprites/u_tireur_chenal_walk.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal_walk.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -998,7 +998,7 @@
     "renderScale": 0.46
   },
   "u_archer_colonie_attack": {
-    "src": "/assets/sprites/u_tireur_chenal_attack.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal_attack.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -1010,7 +1010,7 @@
     "renderScale": 0.46
   },
   "u_influenceur_tiktok_walk": {
-    "src": "/assets/sprites/u_influenceur_puff_walk.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff_walk.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -1022,7 +1022,7 @@
     "renderScale": 0.47
   },
   "u_influenceur_tiktok_attack": {
-    "src": "/assets/sprites/u_influenceur_puff_attack.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff_attack.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -1034,7 +1034,7 @@
     "renderScale": 0.47
   },
   "u_gars_becik_walk": {
-    "src": "/assets/sprites/u_gars_becik_walk.png?v=16",
+    "src": "/assets/sprites/u_gars_becik_walk.png?v=17",
     "width": 2624,
     "height": 1216,
     "frames": 16,
@@ -1046,7 +1046,7 @@
     "renderScale": 0.48
   },
   "u_gars_becik_attack": {
-    "src": "/assets/sprites/u_gars_becik_attack.png?v=16",
+    "src": "/assets/sprites/u_gars_becik_attack.png?v=17",
     "width": 2624,
     "height": 1216,
     "frames": 16,
@@ -1058,7 +1058,7 @@
     "renderScale": 0.48
   },
   "u_joueur_ascbr_walk": {
-    "src": "/assets/sprites/u_joueur_alliance_walk.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance_walk.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -1070,7 +1070,7 @@
     "renderScale": 0.46
   },
   "u_joueur_ascbr_attack": {
-    "src": "/assets/sprites/u_joueur_alliance_attack.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance_attack.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -1082,7 +1082,7 @@
     "renderScale": 0.46
   },
   "u_tresor_quadriporteur_walk": {
-    "src": "/assets/sprites/u_tresor_quadriporteur_walk.png?v=16",
+    "src": "/assets/sprites/u_tresor_quadriporteur_walk.png?v=17",
     "width": 2752,
     "height": 1280,
     "frames": 16,
@@ -1094,7 +1094,7 @@
     "renderScale": 0.49
   },
   "u_lanceur_curling_walk": {
-    "src": "/assets/sprites/u_lanceur_curling_walk.png?v=16",
+    "src": "/assets/sprites/u_lanceur_curling_walk.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -1106,7 +1106,7 @@
     "renderScale": 0.5
   },
   "u_lanceur_curling_attack": {
-    "src": "/assets/sprites/u_lanceur_curling_attack.png?v=16",
+    "src": "/assets/sprites/u_lanceur_curling_attack.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -1118,7 +1118,7 @@
     "renderScale": 0.5
   },
   "u_pickup_f150_walk": {
-    "src": "/assets/sprites/u_pickup_f150_walk.png?v=16",
+    "src": "/assets/sprites/u_pickup_f150_walk.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -1130,7 +1130,7 @@
     "renderScale": 0.5
   },
   "u_pickup_f150_attack": {
-    "src": "/assets/sprites/u_pickup_f150_attack.png?v=16",
+    "src": "/assets/sprites/u_pickup_f150_attack.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -1142,7 +1142,7 @@
     "renderScale": 0.5
   },
   "u_tresor_quadriporteur_attack": {
-    "src": "/assets/sprites/u_tresor_quadriporteur_attack.png?v=16",
+    "src": "/assets/sprites/u_tresor_quadriporteur_attack.png?v=17",
     "width": 2752,
     "height": 1280,
     "frames": 16,
@@ -1154,7 +1154,7 @@
     "renderScale": 0.49
   },
   "u_camion_recyclo_walk": {
-    "src": "/assets/sprites/u_camion_recyclo_walk.png?v=16",
+    "src": "/assets/sprites/u_camion_recyclo_walk.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -1166,7 +1166,7 @@
     "renderScale": 0.48
   },
   "u_pilier_baboche_walk": {
-    "src": "/assets/sprites/u_pilier_baboche_walk.png?v=16",
+    "src": "/assets/sprites/u_pilier_baboche_walk.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -1178,7 +1178,7 @@
     "renderScale": 0.47
   },
   "u_pilier_baboche_attack": {
-    "src": "/assets/sprites/u_pilier_baboche_attack.png?v=16",
+    "src": "/assets/sprites/u_pilier_baboche_attack.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -1190,7 +1190,7 @@
     "renderScale": 0.47
   },
   "u_barista_plateau_walk": {
-    "src": "/assets/sprites/u_barista_fixie_walk.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie_walk.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -1202,7 +1202,7 @@
     "renderScale": 0.48
   },
   "u_barista_plateau_attack": {
-    "src": "/assets/sprites/u_barista_fixie_attack.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie_attack.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -1214,7 +1214,7 @@
     "renderScale": 0.48
   },
   "u_trebuchet_pont_attack": {
-    "src": "/assets/sprites/u_grue_portuaire_attack.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire_attack.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -1226,7 +1226,7 @@
     "renderScale": 0.54
   },
   "a_sheep_idle": {
-    "src": "/assets/sprites/a_sheep.png?v=16",
+    "src": "/assets/sprites/a_sheep.png?v=17",
     "width": 1856,
     "height": 864,
     "frames": 16,
@@ -1238,7 +1238,7 @@
     "renderScale": 0.44
   },
   "a_sheep_walk": {
-    "src": "/assets/sprites/a_sheep_walk.png?v=16",
+    "src": "/assets/sprites/a_sheep_walk.png?v=17",
     "width": 1856,
     "height": 864,
     "frames": 16,
@@ -1250,7 +1250,7 @@
     "renderScale": 0.44
   },
   "a_deer_idle": {
-    "src": "/assets/sprites/a_deer.png?v=16",
+    "src": "/assets/sprites/a_deer.png?v=17",
     "width": 2176,
     "height": 1024,
     "frames": 16,
@@ -1262,7 +1262,7 @@
     "renderScale": 0.47
   },
   "a_deer_walk": {
-    "src": "/assets/sprites/a_deer_walk.png?v=16",
+    "src": "/assets/sprites/a_deer_walk.png?v=17",
     "width": 2176,
     "height": 1024,
     "frames": 16,
@@ -1274,7 +1274,7 @@
     "renderScale": 0.47
   },
   "a_boar_idle": {
-    "src": "/assets/sprites/a_boar.png?v=16",
+    "src": "/assets/sprites/a_boar.png?v=17",
     "width": 2176,
     "height": 960,
     "frames": 16,
@@ -1286,7 +1286,7 @@
     "renderScale": 0.48
   },
   "a_boar_walk": {
-    "src": "/assets/sprites/a_boar_walk.png?v=16",
+    "src": "/assets/sprites/a_boar_walk.png?v=17",
     "width": 2176,
     "height": 960,
     "frames": 16,
@@ -1298,7 +1298,7 @@
     "renderScale": 0.48
   },
   "a_boar_attack": {
-    "src": "/assets/sprites/a_boar_attack.png?v=16",
+    "src": "/assets/sprites/a_boar_attack.png?v=17",
     "width": 2176,
     "height": 960,
     "frames": 16,
@@ -1310,7 +1310,7 @@
     "renderScale": 0.48
   },
   "u_villager_death": {
-    "src": "/assets/sprites/u_villager_death.png?v=16",
+    "src": "/assets/sprites/u_villager_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -1322,7 +1322,7 @@
     "renderScale": 0.46
   },
   "u_infantry_death": {
-    "src": "/assets/sprites/u_flaneur_augusta_death.png?v=16",
+    "src": "/assets/sprites/u_flaneur_augusta_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -1334,7 +1334,7 @@
     "renderScale": 0.46
   },
   "u_archer_death": {
-    "src": "/assets/sprites/u_tireur_chenal_death.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal_death.png?v=17",
     "width": 1120,
     "height": 136,
     "frames": 8,
@@ -1346,7 +1346,7 @@
     "renderScale": 0.46
   },
   "u_cavalry_death": {
-    "src": "/assets/sprites/u_gars_becik_death.png?v=16",
+    "src": "/assets/sprites/u_gars_becik_death.png?v=17",
     "width": 1312,
     "height": 152,
     "frames": 8,
@@ -1358,7 +1358,7 @@
     "renderScale": 0.48
   },
   "u_siege_death": {
-    "src": "/assets/sprites/u_lanceur_curling_death.png?v=16",
+    "src": "/assets/sprites/u_lanceur_curling_death.png?v=17",
     "width": 1440,
     "height": 164,
     "frames": 8,
@@ -1370,7 +1370,7 @@
     "renderScale": 0.5
   },
   "a_sheep_death": {
-    "src": "/assets/sprites/a_sheep_death.png?v=16",
+    "src": "/assets/sprites/a_sheep_death.png?v=17",
     "width": 928,
     "height": 108,
     "frames": 8,
@@ -1382,7 +1382,7 @@
     "renderScale": 0.44
   },
   "a_deer_death": {
-    "src": "/assets/sprites/a_deer_death.png?v=16",
+    "src": "/assets/sprites/a_deer_death.png?v=17",
     "width": 1088,
     "height": 128,
     "frames": 8,
@@ -1394,7 +1394,7 @@
     "renderScale": 0.47
   },
   "a_boar_death": {
-    "src": "/assets/sprites/a_boar_death.png?v=16",
+    "src": "/assets/sprites/a_boar_death.png?v=17",
     "width": 1088,
     "height": 120,
     "frames": 8,
@@ -1406,7 +1406,7 @@
     "renderScale": 0.48
   },
   "fx_garrison_flag": {
-    "src": "/assets/sprites/fx_garrison_flag.png?v=16",
+    "src": "/assets/sprites/fx_garrison_flag.png?v=17",
     "width": 54,
     "height": 57,
     "frames": 8,
@@ -1418,7 +1418,7 @@
     "sld": "b_west_garrison_flag_x1.sld"
   },
   "b_rubble_2": {
-    "src": "/assets/sprites/b_rubble_2.png?v=16",
+    "src": "/assets/sprites/b_rubble_2.png?v=17",
     "width": 211,
     "height": 112,
     "frames": 1,
@@ -1430,7 +1430,7 @@
     "sld": "b_west_house_age2_rubble_x1.sld"
   },
   "b_rubble_3": {
-    "src": "/assets/sprites/b_rubble_3.png?v=16",
+    "src": "/assets/sprites/b_rubble_3.png?v=17",
     "width": 345,
     "height": 166,
     "frames": 1,
@@ -1442,7 +1442,7 @@
     "sld": "b_west_barracks_age2_rubble_x1.sld"
   },
   "b_rubble_4": {
-    "src": "/assets/sprites/b_rubble_4.png?v=16",
+    "src": "/assets/sprites/b_rubble_4.png?v=17",
     "width": 407,
     "height": 176,
     "frames": 1,
@@ -1454,7 +1454,7 @@
     "sld": "b_west_town_center_age2_rubble_x1.sld"
   },
   "b_palisade": {
-    "src": "/assets/sprites/b_palisade.png?v=16",
+    "src": "/assets/sprites/b_palisade.png?v=17",
     "width": 92,
     "height": 89,
     "frames": 1,
@@ -1465,7 +1465,7 @@
     "hotspotY": 66
   },
   "b_stone_wall": {
-    "src": "/assets/sprites/b_stone_wall.png?v=16",
+    "src": "/assets/sprites/b_stone_wall.png?v=17",
     "width": 104,
     "height": 104,
     "frames": 1,
@@ -1476,7 +1476,7 @@
     "hotspotY": 83
   },
   "b_gate": {
-    "src": "/assets/sprites/b_gate.png?v=16",
+    "src": "/assets/sprites/b_gate.png?v=17",
     "width": 232,
     "height": 195,
     "frames": 1,
@@ -1487,7 +1487,7 @@
     "hotspotY": 152
   },
   "p_arrow": {
-    "src": "/assets/sprites/p_arrow.png?v=16",
+    "src": "/assets/sprites/p_arrow.png?v=17",
     "width": 11,
     "height": 18,
     "frames": 1,
@@ -1499,7 +1499,7 @@
     "sld": "p_arrow_bwa_x1.sld"
   },
   "p_arrow_fire": {
-    "src": "/assets/sprites/p_arrow_fire.png?v=16",
+    "src": "/assets/sprites/p_arrow_fire.png?v=17",
     "width": 4,
     "height": 10,
     "frames": 1,
@@ -1515,14 +1515,14 @@
     "height": 156,
     "hotspotX": 98,
     "hotspotY": 112,
-    "src": "/assets/sprites/b_house_tim.png?v=16"
+    "src": "/assets/sprites/b_house_tim.png?v=17"
   },
   "b_house_subway": {
     "width": 196,
     "height": 160,
     "hotspotX": 98,
     "hotspotY": 115,
-    "src": "/assets/sprites/b_house_subway.png?v=16"
+    "src": "/assets/sprites/b_house_subway.png?v=17"
   },
   "b_archery": {
     "url": "/assets/sprites/b_archery.png?v=6",
@@ -1537,52 +1537,52 @@
     "height": 176,
     "hotspotX": 105,
     "hotspotY": 126,
-    "src": "/assets/sprites/b_mill_hurteau.png?v=16"
+    "src": "/assets/sprites/b_mill_hurteau.png?v=17"
   },
   "b_mill_beauchemin": {
     "width": 215,
     "height": 192,
     "hotspotX": 107,
     "hotspotY": 138,
-    "src": "/assets/sprites/b_mill_beauchemin.png?v=16"
+    "src": "/assets/sprites/b_mill_beauchemin.png?v=17"
   },
   "b_farm_ap": {
     "width": 192,
     "height": 130,
     "hotspotX": 96,
     "hotspotY": 88,
-    "src": "/assets/sprites/b_farm_ap.png?v=16"
+    "src": "/assets/sprites/b_farm_ap.png?v=17"
   },
   "b_farm_chez_vic": {
     "width": 192,
     "height": 177,
     "hotspotX": 96,
     "hotspotY": 123,
-    "src": "/assets/sprites/b_farm_chez_vic.png?v=16"
+    "src": "/assets/sprites/b_farm_chez_vic.png?v=17"
   },
   "b_farm_ti_coq": {
     "width": 196,
     "height": 132,
     "hotspotX": 98,
     "hotspotY": 92,
-    "src": "/assets/sprites/b_farm_ti_coq.png?v=16"
+    "src": "/assets/sprites/b_farm_ti_coq.png?v=17"
   },
   "b_lumber_canac": {
     "width": 228,
     "height": 139,
     "hotspotX": 114,
     "hotspotY": 94,
-    "src": "/assets/sprites/b_lumber_canac.png?v=16"
+    "src": "/assets/sprites/b_lumber_canac.png?v=17"
   },
   "b_lumber_patrick_morin": {
     "width": 228,
     "height": 171,
     "hotspotX": 114,
     "hotspotY": 116,
-    "src": "/assets/sprites/b_lumber_patrick_morin.png?v=16"
+    "src": "/assets/sprites/b_lumber_patrick_morin.png?v=17"
   },
   "b_town_center_sorel": {
-    "src": "/assets/sprites/b_town_center_sorel.png?v=16",
+    "src": "/assets/sprites/b_town_center_sorel.png?v=17",
     "width": 336,
     "height": 325,
     "frames": 1,
@@ -1597,17 +1597,17 @@
     "height": 214,
     "hotspotX": 152,
     "hotspotY": 149,
-    "src": "/assets/sprites/b_stable_richardson.png?v=16"
+    "src": "/assets/sprites/b_stable_richardson.png?v=17"
   },
   "b_market_recyclo": {
     "width": 310,
     "height": 204,
     "hotspotX": 155,
     "hotspotY": 142,
-    "src": "/assets/sprites/b_market_recyclo.png?v=16"
+    "src": "/assets/sprites/b_market_recyclo.png?v=17"
   },
   "b_tower_piscine": {
-    "src": "/assets/sprites/b_tower.png?v=16",
+    "src": "/assets/sprites/b_tower.png?v=17",
     "width": 232,
     "height": 164,
     "frames": 1,
@@ -1622,45 +1622,45 @@
     "height": 207,
     "hotspotX": 154,
     "hotspotY": 144,
-    "src": "/assets/sprites/b_siege_curling.png?v=16"
+    "src": "/assets/sprites/b_siege_curling.png?v=17"
   },
   "b_monastery_hotel_dieu": {
     "width": 298,
     "height": 261,
     "hotspotX": 149,
     "hotspotY": 187,
-    "src": "/assets/sprites/b_monastery_hotel_dieu.png?v=16"
+    "src": "/assets/sprites/b_monastery_hotel_dieu.png?v=17"
   },
   "b_monastery_cactus": {
     "width": 295,
     "height": 284,
     "hotspotX": 147,
     "hotspotY": 204,
-    "src": "/assets/sprites/b_monastery_cactus.png?v=16"
+    "src": "/assets/sprites/b_monastery_cactus.png?v=17"
   },
   "b_monastery_baboche": {
     "width": 295,
     "height": 205,
     "hotspotX": 147,
     "hotspotY": 143,
-    "src": "/assets/sprites/b_monastery_baboche.png?v=16"
+    "src": "/assets/sprites/b_monastery_baboche.png?v=17"
   },
   "b_university_fl": {
     "width": 315,
     "height": 219,
     "hotspotX": 157,
     "hotspotY": 148,
-    "src": "/assets/sprites/b_university_fl.png?v=16"
+    "src": "/assets/sprites/b_university_fl.png?v=17"
   },
   "b_university_bg": {
     "width": 315,
     "height": 208,
     "hotspotX": 157,
     "hotspotY": 141,
-    "src": "/assets/sprites/b_university_bg.png?v=16"
+    "src": "/assets/sprites/b_university_bg.png?v=17"
   },
   "u_goon_eperviers_walk": {
-    "src": "/assets/sprites/u_goon_eperviers_walk.png?v=16",
+    "src": "/assets/sprites/u_goon_eperviers_walk.png?v=17",
     "width": 2432,
     "height": 1152,
     "frames": 16,
@@ -1672,7 +1672,7 @@
     "renderScale": 0.5
   },
   "u_goon_eperviers_attack": {
-    "src": "/assets/sprites/u_goon_eperviers_attack.png?v=16",
+    "src": "/assets/sprites/u_goon_eperviers_attack.png?v=17",
     "width": 2432,
     "height": 1152,
     "frames": 16,
@@ -1684,7 +1684,7 @@
     "renderScale": 0.5
   },
   "u_goon_eperviers": {
-    "src": "/assets/sprites/u_goon_eperviers.png?v=16",
+    "src": "/assets/sprites/u_goon_eperviers.png?v=17",
     "width": 2432,
     "height": 1152,
     "frames": 16,
@@ -1696,7 +1696,7 @@
     "renderScale": 0.5
   },
   "u_tireur_chenal_walk": {
-    "src": "/assets/sprites/u_tireur_chenal_walk.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal_walk.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -1708,7 +1708,7 @@
     "renderScale": 0.46
   },
   "u_tireur_chenal_attack": {
-    "src": "/assets/sprites/u_tireur_chenal_attack.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal_attack.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -1720,7 +1720,7 @@
     "renderScale": 0.46
   },
   "u_tireur_elite_walk": {
-    "src": "/assets/sprites/u_tireur_elite_walk.png?v=16",
+    "src": "/assets/sprites/u_tireur_elite_walk.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -1732,7 +1732,7 @@
     "renderScale": 0.47
   },
   "u_tireur_elite_attack": {
-    "src": "/assets/sprites/u_tireur_elite_attack.png?v=16",
+    "src": "/assets/sprites/u_tireur_elite_attack.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -1744,7 +1744,7 @@
     "renderScale": 0.47
   },
   "u_sniper_lac_walk": {
-    "src": "/assets/sprites/u_sniper_lac_walk.png?v=16",
+    "src": "/assets/sprites/u_sniper_lac_walk.png?v=17",
     "width": 2336,
     "height": 1120,
     "frames": 16,
@@ -1756,7 +1756,7 @@
     "renderScale": 0.48
   },
   "u_sniper_lac_attack": {
-    "src": "/assets/sprites/u_sniper_lac_attack.png?v=16",
+    "src": "/assets/sprites/u_sniper_lac_attack.png?v=17",
     "width": 2336,
     "height": 1120,
     "frames": 16,
@@ -1768,7 +1768,7 @@
     "renderScale": 0.48
   },
   "u_joueur_alliance_walk": {
-    "src": "/assets/sprites/u_joueur_alliance_walk.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance_walk.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -1780,7 +1780,7 @@
     "renderScale": 0.46
   },
   "u_joueur_alliance_attack": {
-    "src": "/assets/sprites/u_joueur_alliance_attack.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance_attack.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -1792,7 +1792,7 @@
     "renderScale": 0.46
   },
   "u_capitaine_csbr_walk": {
-    "src": "/assets/sprites/u_capitaine_csbr_walk.png?v=16",
+    "src": "/assets/sprites/u_capitaine_csbr_walk.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -1804,7 +1804,7 @@
     "renderScale": 0.47
   },
   "u_capitaine_csbr_attack": {
-    "src": "/assets/sprites/u_capitaine_csbr_attack.png?v=16",
+    "src": "/assets/sprites/u_capitaine_csbr_attack.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -1816,7 +1816,7 @@
     "renderScale": 0.47
   },
   "u_vtt_4roues_walk": {
-    "src": "/assets/sprites/u_vtt_4roues_walk.png?v=16",
+    "src": "/assets/sprites/u_vtt_4roues_walk.png?v=17",
     "width": 2752,
     "height": 1264,
     "frames": 16,
@@ -1828,7 +1828,7 @@
     "renderScale": 0.49
   },
   "u_vtt_4roues_attack": {
-    "src": "/assets/sprites/u_vtt_4roues_attack.png?v=16",
+    "src": "/assets/sprites/u_vtt_4roues_attack.png?v=17",
     "width": 2752,
     "height": 1264,
     "frames": 16,
@@ -1840,7 +1840,7 @@
     "renderScale": 0.49
   },
   "u_vtt_4roues": {
-    "src": "/assets/sprites/u_vtt_4roues.png?v=16",
+    "src": "/assets/sprites/u_vtt_4roues.png?v=17",
     "width": 2752,
     "height": 1264,
     "frames": 16,
@@ -1852,7 +1852,7 @@
     "renderScale": 0.49
   },
   "u_f350_dually_walk": {
-    "src": "/assets/sprites/u_f350_dually_walk.png?v=16",
+    "src": "/assets/sprites/u_f350_dually_walk.png?v=17",
     "width": 3328,
     "height": 1472,
     "frames": 16,
@@ -1864,7 +1864,7 @@
     "renderScale": 0.52
   },
   "u_f350_dually_attack": {
-    "src": "/assets/sprites/u_f350_dually_attack.png?v=16",
+    "src": "/assets/sprites/u_f350_dually_attack.png?v=17",
     "width": 3328,
     "height": 1472,
     "frames": 16,
@@ -1876,7 +1876,7 @@
     "renderScale": 0.52
   },
   "u_f350_dually": {
-    "src": "/assets/sprites/u_f350_dually.png?v=16",
+    "src": "/assets/sprites/u_f350_dually.png?v=17",
     "width": 3328,
     "height": 1472,
     "frames": 16,
@@ -1888,7 +1888,7 @@
     "renderScale": 0.52
   },
   "u_chaloupe_peche_walk": {
-    "src": "/assets/sprites/u_chaloupe_peche_walk.png?v=16",
+    "src": "/assets/sprites/u_chaloupe_peche_walk.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -1900,7 +1900,7 @@
     "renderScale": 0.5
   },
   "u_traversier_sorel_walk": {
-    "src": "/assets/sprites/u_traversier_sorel_walk.png?v=16",
+    "src": "/assets/sprites/u_traversier_sorel_walk.png?v=17",
     "width": 3584,
     "height": 1600,
     "frames": 16,
@@ -1912,7 +1912,7 @@
     "renderScale": 0.54
   },
   "u_les_triplottes_walk": {
-    "src": "/assets/sprites/u_les_triplottes_walk.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes_walk.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -1924,7 +1924,7 @@
     "renderScale": 0.5
   },
   "u_les_triplottes_attack": {
-    "src": "/assets/sprites/u_les_triplottes_attack.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes_attack.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -1936,7 +1936,7 @@
     "renderScale": 0.5
   },
   "u_wolf": {
-    "src": "/assets/sprites/u_queteux_super_c.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -1948,7 +1948,7 @@
     "renderScale": 0.45
   },
   "u_wolf_walk": {
-    "src": "/assets/sprites/u_queteux_super_c_walk.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -1960,7 +1960,7 @@
     "renderScale": 0.45
   },
   "u_wolf_attack": {
-    "src": "/assets/sprites/u_queteux_super_c_attack.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -1972,7 +1972,7 @@
     "renderScale": 0.45
   },
   "b_chateau_simard": {
-    "src": "/assets/sprites/b_chateau_simard.png?v=16",
+    "src": "/assets/sprites/b_chateau_simard.png?v=17",
     "width": 340,
     "height": 284,
     "frames": 1,
@@ -1983,7 +1983,7 @@
     "hotspotY": 216
   },
   "b_promenades_sorel": {
-    "src": "/assets/sprites/b_promenades_sorel.png?v=16",
+    "src": "/assets/sprites/b_promenades_sorel.png?v=17",
     "width": 320,
     "height": 166,
     "frames": 1,
@@ -1994,7 +1994,7 @@
     "hotspotY": 126
   },
   "b_blacksmith_forges": {
-    "src": "/assets/sprites/b_blacksmith_forges.png?v=16",
+    "src": "/assets/sprites/b_blacksmith_forges.png?v=17",
     "width": 268,
     "height": 238,
     "frames": 1,
@@ -2005,7 +2005,7 @@
     "hotspotY": 181
   },
   "b_blacksmith_cantire": {
-    "src": "/assets/sprites/b_blacksmith_3.png?v=16",
+    "src": "/assets/sprites/b_blacksmith_3.png?v=17",
     "width": 286,
     "height": 236,
     "frames": 1,
@@ -2016,7 +2016,7 @@
     "hotspotY": 170
   },
   "b_outpost": {
-    "src": "/assets/sprites/b_outpost.png?v=16",
+    "src": "/assets/sprites/b_outpost.png?v=17",
     "width": 142,
     "height": 154,
     "frames": 1,
@@ -2027,7 +2027,7 @@
     "hotspotY": 128
   },
   "b_wonder_biophare": {
-    "src": "/assets/sprites/b_wonder_biophare.png?v=16",
+    "src": "/assets/sprites/b_wonder_biophare.png?v=17",
     "width": 388,
     "height": 341,
     "frames": 1,
@@ -2038,7 +2038,7 @@
     "hotspotY": 259
   },
   "u_villager_attack": {
-    "src": "/assets/sprites/u_villager_attack.png?v=16",
+    "src": "/assets/sprites/u_villager_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2050,7 +2050,7 @@
     "renderScale": 0.46
   },
   "u_camion_recyclo_attack": {
-    "src": "/assets/sprites/u_camion_recyclo_attack.png?v=16",
+    "src": "/assets/sprites/u_camion_recyclo_attack.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -2062,7 +2062,7 @@
     "renderScale": 0.48
   },
   "u_chaloupe_peche_attack": {
-    "src": "/assets/sprites/u_chaloupe_peche_attack.png?v=16",
+    "src": "/assets/sprites/u_chaloupe_peche_attack.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -2074,7 +2074,7 @@
     "renderScale": 0.5
   },
   "u_traversier_sorel_attack": {
-    "src": "/assets/sprites/u_traversier_sorel_attack.png?v=16",
+    "src": "/assets/sprites/u_traversier_sorel_attack.png?v=17",
     "width": 3584,
     "height": 1600,
     "frames": 16,
@@ -2086,7 +2086,7 @@
     "renderScale": 0.54
   },
   "u_seadoo_guerre_walk": {
-    "src": "/assets/sprites/u_seadoo_guerre_walk.png?v=16",
+    "src": "/assets/sprites/u_seadoo_guerre_walk.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -2098,7 +2098,7 @@
     "renderScale": 0.5
   },
   "u_seadoo_guerre_attack": {
-    "src": "/assets/sprites/u_seadoo_guerre_attack.png?v=16",
+    "src": "/assets/sprites/u_seadoo_guerre_attack.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -2110,7 +2110,7 @@
     "renderScale": 0.5
   },
   "u_tireur_elite": {
-    "src": "/assets/sprites/u_tireur_elite.png?v=16",
+    "src": "/assets/sprites/u_tireur_elite.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -2122,7 +2122,7 @@
     "renderScale": 0.47
   },
   "u_sniper_lac": {
-    "src": "/assets/sprites/u_sniper_lac.png?v=16",
+    "src": "/assets/sprites/u_sniper_lac.png?v=17",
     "width": 2336,
     "height": 1120,
     "frames": 16,
@@ -2134,7 +2134,7 @@
     "renderScale": 0.48
   },
   "u_capitaine_csbr": {
-    "src": "/assets/sprites/u_capitaine_csbr.png?v=16",
+    "src": "/assets/sprites/u_capitaine_csbr.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -2146,7 +2146,7 @@
     "renderScale": 0.47
   },
   "u_canon_patates_walk": {
-    "src": "/assets/sprites/u_canon_patates_walk.png?v=16",
+    "src": "/assets/sprites/u_canon_patates_walk.png?v=17",
     "width": 2816,
     "height": 1280,
     "frames": 16,
@@ -2158,7 +2158,7 @@
     "renderScale": 0.49
   },
   "u_canon_patates_attack": {
-    "src": "/assets/sprites/u_canon_patates_attack.png?v=16",
+    "src": "/assets/sprites/u_canon_patates_attack.png?v=17",
     "width": 2816,
     "height": 1280,
     "frames": 16,
@@ -2170,7 +2170,7 @@
     "renderScale": 0.49
   },
   "u_grue_portuaire_walk": {
-    "src": "/assets/sprites/u_grue_portuaire_walk.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire_walk.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -2182,7 +2182,7 @@
     "renderScale": 0.54
   },
   "u_grue_portuaire_attack": {
-    "src": "/assets/sprites/u_grue_portuaire_attack.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire_attack.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -2194,7 +2194,7 @@
     "renderScale": 0.54
   },
   "u_grue_portuaire_unpacked": {
-    "src": "/assets/sprites/u_grue_portuaire_unpacked.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire_unpacked.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -2206,7 +2206,7 @@
     "renderScale": 0.54
   },
   "u_braconnier_chenal_walk": {
-    "src": "/assets/sprites/u_braconnier_chenal_walk.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal_walk.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -2218,7 +2218,7 @@
     "renderScale": 0.47
   },
   "u_braconnier_chenal_attack": {
-    "src": "/assets/sprites/u_braconnier_chenal_attack.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal_attack.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -2230,7 +2230,7 @@
     "renderScale": 0.47
   },
   "u_karen_syndicat_walk": {
-    "src": "/assets/sprites/u_karen_syndicat_walk.png?v=16",
+    "src": "/assets/sprites/u_karen_syndicat_walk.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -2242,7 +2242,7 @@
     "renderScale": 0.5
   },
   "u_karen_syndicat_attack": {
-    "src": "/assets/sprites/u_karen_syndicat_attack.png?v=16",
+    "src": "/assets/sprites/u_karen_syndicat_attack.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -2254,7 +2254,7 @@
     "renderScale": 0.5
   },
   "u_barista_fixie_walk": {
-    "src": "/assets/sprites/u_barista_fixie_walk.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie_walk.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -2266,7 +2266,7 @@
     "renderScale": 0.48
   },
   "u_barista_fixie_attack": {
-    "src": "/assets/sprites/u_barista_fixie_attack.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie_attack.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -2278,7 +2278,7 @@
     "renderScale": 0.48
   },
   "u_influenceur_puff_walk": {
-    "src": "/assets/sprites/u_influenceur_puff_walk.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff_walk.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -2290,7 +2290,7 @@
     "renderScale": 0.47
   },
   "u_influenceur_puff_attack": {
-    "src": "/assets/sprites/u_influenceur_puff_attack.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff_attack.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -2302,7 +2302,7 @@
     "renderScale": 0.47
   },
   "b_town_center": {
-    "src": "/assets/sprites/b_town_center.png?v=16",
+    "src": "/assets/sprites/b_town_center.png?v=17",
     "width": 356,
     "height": 345,
     "frames": 1,
@@ -2313,7 +2313,7 @@
     "hotspotY": 252
   },
   "b_tower_korhani": {
-    "src": "/assets/sprites/b_tower_korhani.png?v=16",
+    "src": "/assets/sprites/b_tower_korhani.png?v=17",
     "width": 168,
     "height": 183,
     "frames": 1,
@@ -2324,7 +2324,7 @@
     "hotspotY": 156
   },
   "u_villager_vieux_sorel": {
-    "src": "/assets/sprites/u_villager.png?v=16",
+    "src": "/assets/sprites/u_villager.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2336,7 +2336,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_walk": {
-    "src": "/assets/sprites/u_villager_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2348,7 +2348,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_attack": {
-    "src": "/assets/sprites/u_villager_attack.png?v=16",
+    "src": "/assets/sprites/u_villager_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2360,7 +2360,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_lumber_walk": {
-    "src": "/assets/sprites/u_villager_lumber_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_lumber_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2372,7 +2372,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_miner_walk": {
-    "src": "/assets/sprites/u_villager_miner_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_miner_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2384,7 +2384,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_farmer_walk": {
-    "src": "/assets/sprites/u_villager_farmer_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_farmer_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2396,7 +2396,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_chop": {
-    "src": "/assets/sprites/u_villager_chop.png?v=16",
+    "src": "/assets/sprites/u_villager_chop.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2408,7 +2408,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_mine": {
-    "src": "/assets/sprites/u_villager_mine.png?v=16",
+    "src": "/assets/sprites/u_villager_mine.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2420,7 +2420,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_build": {
-    "src": "/assets/sprites/u_villager_build.png?v=16",
+    "src": "/assets/sprites/u_villager_build.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2432,7 +2432,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_farm_work": {
-    "src": "/assets/sprites/u_villager_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2444,7 +2444,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_forage": {
-    "src": "/assets/sprites/u_villager_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2456,7 +2456,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne": {
-    "src": "/assets/sprites/u_villager_sainte_anne.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2468,7 +2468,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_walk": {
-    "src": "/assets/sprites/u_villager_sainte_anne_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2480,7 +2480,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_attack": {
-    "src": "/assets/sprites/u_villager_sainte_anne_attack.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2492,7 +2492,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_lumber_walk": {
-    "src": "/assets/sprites/u_villager_sainte_anne_lumber_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_lumber_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2504,7 +2504,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_miner_walk": {
-    "src": "/assets/sprites/u_villager_sainte_anne_miner_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_miner_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2516,7 +2516,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_farmer_walk": {
-    "src": "/assets/sprites/u_villager_sainte_anne_farmer_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_farmer_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2528,7 +2528,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_chop": {
-    "src": "/assets/sprites/u_villager_sainte_anne_chop.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_chop.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2540,7 +2540,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_mine": {
-    "src": "/assets/sprites/u_villager_sainte_anne_mine.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_mine.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2552,7 +2552,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_build": {
-    "src": "/assets/sprites/u_villager_sainte_anne_build.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_build.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2564,7 +2564,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_farm_work": {
-    "src": "/assets/sprites/u_villager_sainte_anne_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2576,7 +2576,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_forage": {
-    "src": "/assets/sprites/u_villager_sainte_anne_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2588,7 +2588,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut": {
-    "src": "/assets/sprites/u_villager_terres_en_haut.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2600,7 +2600,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_walk": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2612,7 +2612,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_attack": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_attack.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2624,7 +2624,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_lumber_walk": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_lumber_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_lumber_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2636,7 +2636,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_miner_walk": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_miner_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_miner_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2648,7 +2648,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_farmer_walk": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_farmer_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_farmer_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2660,7 +2660,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_chop": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_chop.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_chop.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2672,7 +2672,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_mine": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_mine.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_mine.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2684,7 +2684,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_build": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_build.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_build.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2696,7 +2696,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_farm_work": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2708,7 +2708,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_forage": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2720,7 +2720,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl": {
-    "src": "/assets/sprites/u_villager_plateau_mtl.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2732,7 +2732,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_walk": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2744,7 +2744,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_attack": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_attack.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2756,7 +2756,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_lumber_walk": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_lumber_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_lumber_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2768,7 +2768,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_miner_walk": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_miner_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_miner_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2780,7 +2780,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_farmer_walk": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_farmer_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_farmer_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2792,7 +2792,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_chop": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_chop.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_chop.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2804,7 +2804,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_mine": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_mine.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_mine.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2816,7 +2816,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_build": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_build.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_build.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2828,7 +2828,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_farm_work": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2840,7 +2840,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_forage": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2852,7 +2852,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z": {
-    "src": "/assets/sprites/u_villager_gen_z.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2864,7 +2864,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_walk": {
-    "src": "/assets/sprites/u_villager_gen_z_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2876,7 +2876,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_attack": {
-    "src": "/assets/sprites/u_villager_gen_z_attack.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2888,7 +2888,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_lumber_walk": {
-    "src": "/assets/sprites/u_villager_gen_z_lumber_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_lumber_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2900,7 +2900,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_miner_walk": {
-    "src": "/assets/sprites/u_villager_gen_z_miner_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_miner_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2912,7 +2912,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_farmer_walk": {
-    "src": "/assets/sprites/u_villager_gen_z_farmer_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_farmer_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2924,7 +2924,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_chop": {
-    "src": "/assets/sprites/u_villager_gen_z_chop.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_chop.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2936,7 +2936,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_mine": {
-    "src": "/assets/sprites/u_villager_gen_z_mine.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_mine.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2948,7 +2948,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_build": {
-    "src": "/assets/sprites/u_villager_gen_z_build.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_build.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2960,7 +2960,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_farm_work": {
-    "src": "/assets/sprites/u_villager_gen_z_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2972,7 +2972,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_forage": {
-    "src": "/assets/sprites/u_villager_gen_z_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2984,7 +2984,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos": {
-    "src": "/assets/sprites/u_villager_metallos.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -2996,7 +2996,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_walk": {
-    "src": "/assets/sprites/u_villager_metallos_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3008,7 +3008,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_attack": {
-    "src": "/assets/sprites/u_villager_metallos_attack.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_attack.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3020,7 +3020,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_lumber_walk": {
-    "src": "/assets/sprites/u_villager_metallos_lumber_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_lumber_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3032,7 +3032,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_miner_walk": {
-    "src": "/assets/sprites/u_villager_metallos_miner_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_miner_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3044,7 +3044,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_farmer_walk": {
-    "src": "/assets/sprites/u_villager_metallos_farmer_walk.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_farmer_walk.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3056,7 +3056,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_chop": {
-    "src": "/assets/sprites/u_villager_metallos_chop.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_chop.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3068,7 +3068,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_mine": {
-    "src": "/assets/sprites/u_villager_metallos_mine.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_mine.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3080,7 +3080,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_build": {
-    "src": "/assets/sprites/u_villager_metallos_build.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_build.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3092,7 +3092,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_farm_work": {
-    "src": "/assets/sprites/u_villager_metallos_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3104,7 +3104,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_forage": {
-    "src": "/assets/sprites/u_villager_metallos_farm_work.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_farm_work.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3116,7 +3116,7 @@
     "renderScale": 0.46
   },
   "b_dock_belvedere": {
-    "src": "/assets/sprites/b_dock_belvedere.png?v=16",
+    "src": "/assets/sprites/b_dock_belvedere.png?v=17",
     "width": 296,
     "height": 239,
     "frames": 1,
@@ -3127,7 +3127,7 @@
     "hotspotY": 184
   },
   "b_blacksmith_canadian_tire": {
-    "src": "/assets/sprites/b_blacksmith_canadian_tire.png?v=16",
+    "src": "/assets/sprites/b_blacksmith_canadian_tire.png?v=17",
     "width": 276,
     "height": 228,
     "frames": 1,
@@ -3138,7 +3138,7 @@
     "hotspotY": 173
   },
   "b_palisade_wall": {
-    "src": "/assets/sprites/b_palisade_wall.png?v=16",
+    "src": "/assets/sprites/b_palisade_wall.png?v=17",
     "width": 96,
     "height": 93,
     "frames": 1,
@@ -3149,7 +3149,7 @@
     "hotspotY": 74
   },
   "b_wonder": {
-    "src": "/assets/sprites/b_wonder_colisee_cardin.png?v=16",
+    "src": "/assets/sprites/b_wonder_colisee_cardin.png?v=17",
     "width": 385,
     "height": 295,
     "frames": 1,
@@ -3160,7 +3160,7 @@
     "hotspotY": 224
   },
   "r_relic": {
-    "src": "/assets/sprites/r_relic.png?v=16",
+    "src": "/assets/sprites/r_relic.png?v=17",
     "width": 74,
     "height": 109,
     "frames": 1,
@@ -3171,7 +3171,7 @@
     "hotspotY": 89
   },
   "u_villager_idle": {
-    "src": "/assets/sprites/u_villager.png?v=16",
+    "src": "/assets/sprites/u_villager.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3183,7 +3183,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_idle": {
-    "src": "/assets/sprites/u_villager.png?v=16",
+    "src": "/assets/sprites/u_villager.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3195,7 +3195,7 @@
     "renderScale": 0.46
   },
   "u_villager_vieux_sorel_death": {
-    "src": "/assets/sprites/u_villager_death.png?v=16",
+    "src": "/assets/sprites/u_villager_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3207,7 +3207,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_idle": {
-    "src": "/assets/sprites/u_villager_sainte_anne.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3219,7 +3219,7 @@
     "renderScale": 0.46
   },
   "u_villager_sainte_anne_death": {
-    "src": "/assets/sprites/u_villager_sainte_anne_death.png?v=16",
+    "src": "/assets/sprites/u_villager_sainte_anne_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3231,7 +3231,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_idle": {
-    "src": "/assets/sprites/u_villager_terres_en_haut.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3243,7 +3243,7 @@
     "renderScale": 0.46
   },
   "u_villager_terres_en_haut_death": {
-    "src": "/assets/sprites/u_villager_terres_en_haut_death.png?v=16",
+    "src": "/assets/sprites/u_villager_terres_en_haut_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3255,7 +3255,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_idle": {
-    "src": "/assets/sprites/u_villager_plateau_mtl.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3267,7 +3267,7 @@
     "renderScale": 0.46
   },
   "u_villager_plateau_mtl_death": {
-    "src": "/assets/sprites/u_villager_plateau_mtl_death.png?v=16",
+    "src": "/assets/sprites/u_villager_plateau_mtl_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3279,7 +3279,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_idle": {
-    "src": "/assets/sprites/u_villager_gen_z.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3291,7 +3291,7 @@
     "renderScale": 0.46
   },
   "u_villager_gen_z_death": {
-    "src": "/assets/sprites/u_villager_gen_z_death.png?v=16",
+    "src": "/assets/sprites/u_villager_gen_z_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3303,7 +3303,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_idle": {
-    "src": "/assets/sprites/u_villager_metallos.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3315,7 +3315,7 @@
     "renderScale": 0.46
   },
   "u_villager_metallos_death": {
-    "src": "/assets/sprites/u_villager_metallos_death.png?v=16",
+    "src": "/assets/sprites/u_villager_metallos_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3327,7 +3327,7 @@
     "renderScale": 0.46
   },
   "a_sheep": {
-    "src": "/assets/sprites/a_sheep.png?v=16",
+    "src": "/assets/sprites/a_sheep.png?v=17",
     "width": 1856,
     "height": 864,
     "frames": 16,
@@ -3339,7 +3339,7 @@
     "renderScale": 0.44
   },
   "a_sheep_attack": {
-    "src": "/assets/sprites/a_sheep_attack.png?v=16",
+    "src": "/assets/sprites/a_sheep_attack.png?v=17",
     "width": 1856,
     "height": 864,
     "frames": 16,
@@ -3351,7 +3351,7 @@
     "renderScale": 0.44
   },
   "a_deer": {
-    "src": "/assets/sprites/a_deer.png?v=16",
+    "src": "/assets/sprites/a_deer.png?v=17",
     "width": 2176,
     "height": 1024,
     "frames": 16,
@@ -3363,7 +3363,7 @@
     "renderScale": 0.47
   },
   "a_deer_attack": {
-    "src": "/assets/sprites/a_deer_attack.png?v=16",
+    "src": "/assets/sprites/a_deer_attack.png?v=17",
     "width": 2176,
     "height": 1024,
     "frames": 16,
@@ -3375,7 +3375,7 @@
     "renderScale": 0.47
   },
   "a_boar": {
-    "src": "/assets/sprites/a_boar.png?v=16",
+    "src": "/assets/sprites/a_boar.png?v=17",
     "width": 2176,
     "height": 960,
     "frames": 16,
@@ -3387,7 +3387,7 @@
     "renderScale": 0.48
   },
   "u_camion_recyclo_idle": {
-    "src": "/assets/sprites/u_camion_recyclo.png?v=16",
+    "src": "/assets/sprites/u_camion_recyclo.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -3399,7 +3399,7 @@
     "renderScale": 0.48
   },
   "u_camion_recyclo_death": {
-    "src": "/assets/sprites/u_camion_recyclo_death.png?v=16",
+    "src": "/assets/sprites/u_camion_recyclo_death.png?v=17",
     "width": 1440,
     "height": 164,
     "frames": 8,
@@ -3411,7 +3411,7 @@
     "renderScale": 0.48
   },
   "u_chaloupe_peche_idle": {
-    "src": "/assets/sprites/u_chaloupe_peche.png?v=16",
+    "src": "/assets/sprites/u_chaloupe_peche.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -3423,7 +3423,7 @@
     "renderScale": 0.5
   },
   "u_chaloupe_peche_death": {
-    "src": "/assets/sprites/u_chaloupe_peche_death.png?v=16",
+    "src": "/assets/sprites/u_chaloupe_peche_death.png?v=17",
     "width": 1440,
     "height": 164,
     "frames": 8,
@@ -3435,7 +3435,7 @@
     "renderScale": 0.5
   },
   "u_traversier_sorel_idle": {
-    "src": "/assets/sprites/u_traversier_sorel.png?v=16",
+    "src": "/assets/sprites/u_traversier_sorel.png?v=17",
     "width": 3584,
     "height": 1600,
     "frames": 16,
@@ -3447,7 +3447,7 @@
     "renderScale": 0.54
   },
   "u_traversier_sorel_death": {
-    "src": "/assets/sprites/u_traversier_sorel_death.png?v=16",
+    "src": "/assets/sprites/u_traversier_sorel_death.png?v=17",
     "width": 1792,
     "height": 200,
     "frames": 8,
@@ -3459,7 +3459,7 @@
     "renderScale": 0.54
   },
   "u_seadoo_guerre_idle": {
-    "src": "/assets/sprites/u_seadoo_guerre.png?v=16",
+    "src": "/assets/sprites/u_seadoo_guerre.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -3471,7 +3471,7 @@
     "renderScale": 0.5
   },
   "u_seadoo_guerre_death": {
-    "src": "/assets/sprites/u_seadoo_guerre_death.png?v=16",
+    "src": "/assets/sprites/u_seadoo_guerre_death.png?v=17",
     "width": 1440,
     "height": 164,
     "frames": 8,
@@ -3483,7 +3483,7 @@
     "renderScale": 0.5
   },
   "u_flaneur_augusta_idle": {
-    "src": "/assets/sprites/u_flaneur_augusta.png?v=16",
+    "src": "/assets/sprites/u_flaneur_augusta.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3495,7 +3495,7 @@
     "renderScale": 0.46
   },
   "u_flaneur_augusta_death": {
-    "src": "/assets/sprites/u_flaneur_augusta_death.png?v=16",
+    "src": "/assets/sprites/u_flaneur_augusta_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3507,7 +3507,7 @@
     "renderScale": 0.46
   },
   "u_bagarreur_idle": {
-    "src": "/assets/sprites/u_bagarreur.png?v=16",
+    "src": "/assets/sprites/u_bagarreur.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -3519,7 +3519,7 @@
     "renderScale": 0.47
   },
   "u_bagarreur_death": {
-    "src": "/assets/sprites/u_bagarreur_death.png?v=16",
+    "src": "/assets/sprites/u_bagarreur_death.png?v=17",
     "width": 1120,
     "height": 138,
     "frames": 8,
@@ -3531,7 +3531,7 @@
     "renderScale": 0.47
   },
   "u_legende_sorel_idle": {
-    "src": "/assets/sprites/u_legende_sorel.png?v=16",
+    "src": "/assets/sprites/u_legende_sorel.png?v=17",
     "width": 2336,
     "height": 1136,
     "frames": 16,
@@ -3543,7 +3543,7 @@
     "renderScale": 0.49
   },
   "u_legende_sorel_death": {
-    "src": "/assets/sprites/u_legende_sorel_death.png?v=16",
+    "src": "/assets/sprites/u_legende_sorel_death.png?v=17",
     "width": 1168,
     "height": 142,
     "frames": 8,
@@ -3555,7 +3555,7 @@
     "renderScale": 0.49
   },
   "u_marinier_ahmbr_idle": {
-    "src": "/assets/sprites/u_marinier_ahmbr.png?v=16",
+    "src": "/assets/sprites/u_marinier_ahmbr.png?v=17",
     "width": 2336,
     "height": 1104,
     "frames": 16,
@@ -3567,7 +3567,7 @@
     "renderScale": 0.48
   },
   "u_marinier_ahmbr_death": {
-    "src": "/assets/sprites/u_marinier_ahmbr_death.png?v=16",
+    "src": "/assets/sprites/u_marinier_ahmbr_death.png?v=17",
     "width": 1168,
     "height": 138,
     "frames": 8,
@@ -3579,7 +3579,7 @@
     "renderScale": 0.48
   },
   "u_veteran_eperviers": {
-    "src": "/assets/sprites/u_veteran_eperviers.png?v=16",
+    "src": "/assets/sprites/u_veteran_eperviers.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -3591,7 +3591,7 @@
     "renderScale": 0.49
   },
   "u_veteran_eperviers_idle": {
-    "src": "/assets/sprites/u_veteran_eperviers.png?v=16",
+    "src": "/assets/sprites/u_veteran_eperviers.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -3603,7 +3603,7 @@
     "renderScale": 0.49
   },
   "u_veteran_eperviers_walk": {
-    "src": "/assets/sprites/u_veteran_eperviers_walk.png?v=16",
+    "src": "/assets/sprites/u_veteran_eperviers_walk.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -3615,7 +3615,7 @@
     "renderScale": 0.49
   },
   "u_veteran_eperviers_attack": {
-    "src": "/assets/sprites/u_veteran_eperviers_attack.png?v=16",
+    "src": "/assets/sprites/u_veteran_eperviers_attack.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -3627,7 +3627,7 @@
     "renderScale": 0.49
   },
   "u_veteran_eperviers_death": {
-    "src": "/assets/sprites/u_veteran_eperviers_death.png?v=16",
+    "src": "/assets/sprites/u_veteran_eperviers_death.png?v=17",
     "width": 1184,
     "height": 140,
     "frames": 8,
@@ -3639,7 +3639,7 @@
     "renderScale": 0.49
   },
   "u_goon_eperviers_idle": {
-    "src": "/assets/sprites/u_goon_eperviers.png?v=16",
+    "src": "/assets/sprites/u_goon_eperviers.png?v=17",
     "width": 2432,
     "height": 1152,
     "frames": 16,
@@ -3651,7 +3651,7 @@
     "renderScale": 0.5
   },
   "u_goon_eperviers_death": {
-    "src": "/assets/sprites/u_goon_eperviers_death.png?v=16",
+    "src": "/assets/sprites/u_goon_eperviers_death.png?v=17",
     "width": 1216,
     "height": 144,
     "frames": 8,
@@ -3663,7 +3663,7 @@
     "renderScale": 0.5
   },
   "u_queteux_super_c_idle": {
-    "src": "/assets/sprites/u_queteux_super_c.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3675,7 +3675,7 @@
     "renderScale": 0.45
   },
   "u_queteux_super_c_death": {
-    "src": "/assets/sprites/u_queteux_super_c_death.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3687,7 +3687,7 @@
     "renderScale": 0.45
   },
   "u_wolf_idle": {
-    "src": "/assets/sprites/u_queteux_super_c.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c.png?v=17",
     "width": 2176,
     "height": 1088,
     "frames": 16,
@@ -3699,7 +3699,7 @@
     "renderScale": 0.45
   },
   "u_wolf_death": {
-    "src": "/assets/sprites/u_queteux_super_c_death.png?v=16",
+    "src": "/assets/sprites/u_queteux_super_c_death.png?v=17",
     "width": 1088,
     "height": 136,
     "frames": 8,
@@ -3711,7 +3711,7 @@
     "renderScale": 0.45
   },
   "u_tireur_chenal_idle": {
-    "src": "/assets/sprites/u_tireur_chenal.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -3723,7 +3723,7 @@
     "renderScale": 0.46
   },
   "u_tireur_chenal_death": {
-    "src": "/assets/sprites/u_tireur_chenal_death.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal_death.png?v=17",
     "width": 1120,
     "height": 136,
     "frames": 8,
@@ -3735,7 +3735,7 @@
     "renderScale": 0.46
   },
   "u_archer_colonie": {
-    "src": "/assets/sprites/u_tireur_chenal.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -3747,7 +3747,7 @@
     "renderScale": 0.46
   },
   "u_archer_colonie_idle": {
-    "src": "/assets/sprites/u_tireur_chenal.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -3759,7 +3759,7 @@
     "renderScale": 0.46
   },
   "u_archer_colonie_death": {
-    "src": "/assets/sprites/u_tireur_chenal_death.png?v=16",
+    "src": "/assets/sprites/u_tireur_chenal_death.png?v=17",
     "width": 1120,
     "height": 136,
     "frames": 8,
@@ -3771,7 +3771,7 @@
     "renderScale": 0.46
   },
   "u_tireur_elite_idle": {
-    "src": "/assets/sprites/u_tireur_elite.png?v=16",
+    "src": "/assets/sprites/u_tireur_elite.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -3783,7 +3783,7 @@
     "renderScale": 0.47
   },
   "u_tireur_elite_death": {
-    "src": "/assets/sprites/u_tireur_elite_death.png?v=16",
+    "src": "/assets/sprites/u_tireur_elite_death.png?v=17",
     "width": 1136,
     "height": 138,
     "frames": 8,
@@ -3795,7 +3795,7 @@
     "renderScale": 0.47
   },
   "u_sniper_lac_idle": {
-    "src": "/assets/sprites/u_sniper_lac.png?v=16",
+    "src": "/assets/sprites/u_sniper_lac.png?v=17",
     "width": 2336,
     "height": 1120,
     "frames": 16,
@@ -3807,7 +3807,7 @@
     "renderScale": 0.48
   },
   "u_sniper_lac_death": {
-    "src": "/assets/sprites/u_sniper_lac_death.png?v=16",
+    "src": "/assets/sprites/u_sniper_lac_death.png?v=17",
     "width": 1168,
     "height": 140,
     "frames": 8,
@@ -3819,7 +3819,7 @@
     "renderScale": 0.48
   },
   "u_joueur_alliance_idle": {
-    "src": "/assets/sprites/u_joueur_alliance.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -3831,7 +3831,7 @@
     "renderScale": 0.46
   },
   "u_joueur_alliance_death": {
-    "src": "/assets/sprites/u_joueur_alliance_death.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance_death.png?v=17",
     "width": 1120,
     "height": 136,
     "frames": 8,
@@ -3843,7 +3843,7 @@
     "renderScale": 0.46
   },
   "u_joueur_ascbr": {
-    "src": "/assets/sprites/u_joueur_alliance.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -3855,7 +3855,7 @@
     "renderScale": 0.46
   },
   "u_joueur_ascbr_idle": {
-    "src": "/assets/sprites/u_joueur_alliance.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance.png?v=17",
     "width": 2240,
     "height": 1088,
     "frames": 16,
@@ -3867,7 +3867,7 @@
     "renderScale": 0.46
   },
   "u_joueur_ascbr_death": {
-    "src": "/assets/sprites/u_joueur_alliance_death.png?v=16",
+    "src": "/assets/sprites/u_joueur_alliance_death.png?v=17",
     "width": 1120,
     "height": 136,
     "frames": 8,
@@ -3879,7 +3879,7 @@
     "renderScale": 0.46
   },
   "u_capitaine_csbr_idle": {
-    "src": "/assets/sprites/u_capitaine_csbr.png?v=16",
+    "src": "/assets/sprites/u_capitaine_csbr.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -3891,7 +3891,7 @@
     "renderScale": 0.47
   },
   "u_capitaine_csbr_death": {
-    "src": "/assets/sprites/u_capitaine_csbr_death.png?v=16",
+    "src": "/assets/sprites/u_capitaine_csbr_death.png?v=17",
     "width": 1136,
     "height": 138,
     "frames": 8,
@@ -3903,7 +3903,7 @@
     "renderScale": 0.47
   },
   "u_gars_becik_idle": {
-    "src": "/assets/sprites/u_gars_becik.png?v=16",
+    "src": "/assets/sprites/u_gars_becik.png?v=17",
     "width": 2624,
     "height": 1216,
     "frames": 16,
@@ -3915,7 +3915,7 @@
     "renderScale": 0.48
   },
   "u_gars_becik_death": {
-    "src": "/assets/sprites/u_gars_becik_death.png?v=16",
+    "src": "/assets/sprites/u_gars_becik_death.png?v=17",
     "width": 1312,
     "height": 152,
     "frames": 8,
@@ -3927,7 +3927,7 @@
     "renderScale": 0.48
   },
   "u_vtt_4roues_idle": {
-    "src": "/assets/sprites/u_vtt_4roues.png?v=16",
+    "src": "/assets/sprites/u_vtt_4roues.png?v=17",
     "width": 2752,
     "height": 1264,
     "frames": 16,
@@ -3939,7 +3939,7 @@
     "renderScale": 0.49
   },
   "u_vtt_4roues_death": {
-    "src": "/assets/sprites/u_vtt_4roues_death.png?v=16",
+    "src": "/assets/sprites/u_vtt_4roues_death.png?v=17",
     "width": 1376,
     "height": 158,
     "frames": 8,
@@ -3951,7 +3951,7 @@
     "renderScale": 0.49
   },
   "u_pickup_f150_idle": {
-    "src": "/assets/sprites/u_pickup_f150.png?v=16",
+    "src": "/assets/sprites/u_pickup_f150.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -3963,7 +3963,7 @@
     "renderScale": 0.5
   },
   "u_pickup_f150_death": {
-    "src": "/assets/sprites/u_pickup_f150_death.png?v=16",
+    "src": "/assets/sprites/u_pickup_f150_death.png?v=17",
     "width": 1568,
     "height": 176,
     "frames": 8,
@@ -3975,7 +3975,7 @@
     "renderScale": 0.5
   },
   "u_f350_dually_idle": {
-    "src": "/assets/sprites/u_f350_dually.png?v=16",
+    "src": "/assets/sprites/u_f350_dually.png?v=17",
     "width": 3328,
     "height": 1472,
     "frames": 16,
@@ -3987,7 +3987,7 @@
     "renderScale": 0.52
   },
   "u_f350_dually_death": {
-    "src": "/assets/sprites/u_f350_dually_death.png?v=16",
+    "src": "/assets/sprites/u_f350_dually_death.png?v=17",
     "width": 1664,
     "height": 184,
     "frames": 8,
@@ -3999,7 +3999,7 @@
     "renderScale": 0.52
   },
   "u_pilier_baboche_idle": {
-    "src": "/assets/sprites/u_pilier_baboche.png?v=16",
+    "src": "/assets/sprites/u_pilier_baboche.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -4011,7 +4011,7 @@
     "renderScale": 0.47
   },
   "u_pilier_baboche_death": {
-    "src": "/assets/sprites/u_pilier_baboche_death.png?v=16",
+    "src": "/assets/sprites/u_pilier_baboche_death.png?v=17",
     "width": 1120,
     "height": 138,
     "frames": 8,
@@ -4023,7 +4023,7 @@
     "renderScale": 0.47
   },
   "u_tresor_quadriporteur_idle": {
-    "src": "/assets/sprites/u_tresor_quadriporteur.png?v=16",
+    "src": "/assets/sprites/u_tresor_quadriporteur.png?v=17",
     "width": 2752,
     "height": 1280,
     "frames": 16,
@@ -4035,7 +4035,7 @@
     "renderScale": 0.49
   },
   "u_tresor_quadriporteur_death": {
-    "src": "/assets/sprites/u_tresor_quadriporteur_death.png?v=16",
+    "src": "/assets/sprites/u_tresor_quadriporteur_death.png?v=17",
     "width": 1376,
     "height": 160,
     "frames": 8,
@@ -4047,7 +4047,7 @@
     "renderScale": 0.49
   },
   "u_lanceur_curling_idle": {
-    "src": "/assets/sprites/u_lanceur_curling.png?v=16",
+    "src": "/assets/sprites/u_lanceur_curling.png?v=17",
     "width": 2880,
     "height": 1312,
     "frames": 16,
@@ -4059,7 +4059,7 @@
     "renderScale": 0.5
   },
   "u_lanceur_curling_death": {
-    "src": "/assets/sprites/u_lanceur_curling_death.png?v=16",
+    "src": "/assets/sprites/u_lanceur_curling_death.png?v=17",
     "width": 1440,
     "height": 164,
     "frames": 8,
@@ -4071,7 +4071,7 @@
     "renderScale": 0.5
   },
   "u_canon_patates_idle": {
-    "src": "/assets/sprites/u_canon_patates.png?v=16",
+    "src": "/assets/sprites/u_canon_patates.png?v=17",
     "width": 2816,
     "height": 1280,
     "frames": 16,
@@ -4083,7 +4083,7 @@
     "renderScale": 0.49
   },
   "u_canon_patates_death": {
-    "src": "/assets/sprites/u_canon_patates_death.png?v=16",
+    "src": "/assets/sprites/u_canon_patates_death.png?v=17",
     "width": 1408,
     "height": 160,
     "frames": 8,
@@ -4095,7 +4095,7 @@
     "renderScale": 0.49
   },
   "u_grue_portuaire_idle": {
-    "src": "/assets/sprites/u_grue_portuaire.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -4107,7 +4107,7 @@
     "renderScale": 0.54
   },
   "u_grue_portuaire_death": {
-    "src": "/assets/sprites/u_grue_portuaire_death.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire_death.png?v=17",
     "width": 1760,
     "height": 208,
     "frames": 8,
@@ -4119,7 +4119,7 @@
     "renderScale": 0.54
   },
   "u_trebuchet_pont": {
-    "src": "/assets/sprites/u_grue_portuaire.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -4131,7 +4131,7 @@
     "renderScale": 0.54
   },
   "u_trebuchet_pont_idle": {
-    "src": "/assets/sprites/u_grue_portuaire.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -4143,7 +4143,7 @@
     "renderScale": 0.54
   },
   "u_trebuchet_pont_walk": {
-    "src": "/assets/sprites/u_grue_portuaire_walk.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire_walk.png?v=17",
     "width": 3520,
     "height": 1664,
     "frames": 16,
@@ -4155,7 +4155,7 @@
     "renderScale": 0.54
   },
   "u_trebuchet_pont_death": {
-    "src": "/assets/sprites/u_grue_portuaire_death.png?v=16",
+    "src": "/assets/sprites/u_grue_portuaire_death.png?v=17",
     "width": 1760,
     "height": 208,
     "frames": 8,
@@ -4167,7 +4167,7 @@
     "renderScale": 0.54
   },
   "u_braconnier_chenal_idle": {
-    "src": "/assets/sprites/u_braconnier_chenal.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -4179,7 +4179,7 @@
     "renderScale": 0.47
   },
   "u_braconnier_chenal_death": {
-    "src": "/assets/sprites/u_braconnier_chenal_death.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal_death.png?v=17",
     "width": 1136,
     "height": 138,
     "frames": 8,
@@ -4191,7 +4191,7 @@
     "renderScale": 0.47
   },
   "u_chasseur_sainte_anne": {
-    "src": "/assets/sprites/u_braconnier_chenal.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -4203,7 +4203,7 @@
     "renderScale": 0.47
   },
   "u_chasseur_sainte_anne_idle": {
-    "src": "/assets/sprites/u_braconnier_chenal.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal.png?v=17",
     "width": 2272,
     "height": 1104,
     "frames": 16,
@@ -4215,7 +4215,7 @@
     "renderScale": 0.47
   },
   "u_chasseur_sainte_anne_death": {
-    "src": "/assets/sprites/u_braconnier_chenal_death.png?v=16",
+    "src": "/assets/sprites/u_braconnier_chenal_death.png?v=17",
     "width": 1136,
     "height": 138,
     "frames": 8,
@@ -4227,7 +4227,7 @@
     "renderScale": 0.47
   },
   "u_karen_syndicat_idle": {
-    "src": "/assets/sprites/u_karen_syndicat.png?v=16",
+    "src": "/assets/sprites/u_karen_syndicat.png?v=17",
     "width": 3136,
     "height": 1408,
     "frames": 16,
@@ -4239,7 +4239,7 @@
     "renderScale": 0.5
   },
   "u_karen_syndicat_death": {
-    "src": "/assets/sprites/u_karen_syndicat_death.png?v=16",
+    "src": "/assets/sprites/u_karen_syndicat_death.png?v=17",
     "width": 1568,
     "height": 176,
     "frames": 8,
@@ -4251,7 +4251,7 @@
     "renderScale": 0.5
   },
   "u_les_triplottes_idle": {
-    "src": "/assets/sprites/u_les_triplottes.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -4263,7 +4263,7 @@
     "renderScale": 0.5
   },
   "u_les_triplottes_death": {
-    "src": "/assets/sprites/u_les_triplottes_death.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes_death.png?v=17",
     "width": 1248,
     "height": 142,
     "frames": 8,
@@ -4275,7 +4275,7 @@
     "renderScale": 0.5
   },
   "u_triplotte_poussette": {
-    "src": "/assets/sprites/u_les_triplottes.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -4287,7 +4287,7 @@
     "renderScale": 0.5
   },
   "u_triplotte_poussette_idle": {
-    "src": "/assets/sprites/u_les_triplottes.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes.png?v=17",
     "width": 2496,
     "height": 1136,
     "frames": 16,
@@ -4299,7 +4299,7 @@
     "renderScale": 0.5
   },
   "u_triplotte_poussette_death": {
-    "src": "/assets/sprites/u_les_triplottes_death.png?v=16",
+    "src": "/assets/sprites/u_les_triplottes_death.png?v=17",
     "width": 1248,
     "height": 142,
     "frames": 8,
@@ -4311,7 +4311,7 @@
     "renderScale": 0.5
   },
   "u_barista_fixie_idle": {
-    "src": "/assets/sprites/u_barista_fixie.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -4323,7 +4323,7 @@
     "renderScale": 0.48
   },
   "u_barista_fixie_death": {
-    "src": "/assets/sprites/u_barista_fixie_death.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie_death.png?v=17",
     "width": 1280,
     "height": 152,
     "frames": 8,
@@ -4335,7 +4335,7 @@
     "renderScale": 0.48
   },
   "u_barista_plateau": {
-    "src": "/assets/sprites/u_barista_fixie.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -4347,7 +4347,7 @@
     "renderScale": 0.48
   },
   "u_barista_plateau_idle": {
-    "src": "/assets/sprites/u_barista_fixie.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie.png?v=17",
     "width": 2560,
     "height": 1216,
     "frames": 16,
@@ -4359,7 +4359,7 @@
     "renderScale": 0.48
   },
   "u_barista_plateau_death": {
-    "src": "/assets/sprites/u_barista_fixie_death.png?v=16",
+    "src": "/assets/sprites/u_barista_fixie_death.png?v=17",
     "width": 1280,
     "height": 152,
     "frames": 8,
@@ -4371,7 +4371,7 @@
     "renderScale": 0.48
   },
   "u_influenceur_puff_idle": {
-    "src": "/assets/sprites/u_influenceur_puff.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -4383,7 +4383,7 @@
     "renderScale": 0.47
   },
   "u_influenceur_puff_death": {
-    "src": "/assets/sprites/u_influenceur_puff_death.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff_death.png?v=17",
     "width": 1120,
     "height": 138,
     "frames": 8,
@@ -4395,7 +4395,7 @@
     "renderScale": 0.47
   },
   "u_influenceur_tiktok": {
-    "src": "/assets/sprites/u_influenceur_puff.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -4407,7 +4407,7 @@
     "renderScale": 0.47
   },
   "u_influenceur_tiktok_idle": {
-    "src": "/assets/sprites/u_influenceur_puff.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff.png?v=17",
     "width": 2240,
     "height": 1104,
     "frames": 16,
@@ -4419,7 +4419,7 @@
     "renderScale": 0.47
   },
   "u_influenceur_tiktok_death": {
-    "src": "/assets/sprites/u_influenceur_puff_death.png?v=16",
+    "src": "/assets/sprites/u_influenceur_puff_death.png?v=17",
     "width": 1120,
     "height": 138,
     "frames": 8,
@@ -4431,7 +4431,7 @@
     "renderScale": 0.47
   },
   "u_soudeur_qit_idle": {
-    "src": "/assets/sprites/u_soudeur_qit.png?v=16",
+    "src": "/assets/sprites/u_soudeur_qit.png?v=17",
     "width": 2368,
     "height": 1120,
     "frames": 16,
@@ -4443,7 +4443,7 @@
     "renderScale": 0.48
   },
   "u_soudeur_qit_death": {
-    "src": "/assets/sprites/u_soudeur_qit_death.png?v=16",
+    "src": "/assets/sprites/u_soudeur_qit_death.png?v=17",
     "width": 1184,
     "height": 140,
     "frames": 8,
